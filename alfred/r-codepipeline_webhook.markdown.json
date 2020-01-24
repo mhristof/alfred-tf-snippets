@@ -1,0 +1,6 @@
+{
+    "uid": "alfred/r-codepipeline_webhook.markdown",
+    "title": "r-codepipeline_webhook.markdown",
+    "arg": "alfred/r-codepipeline_webhook.markdown",
+    "match": "r codepipeline webhook.markdown"
+},
