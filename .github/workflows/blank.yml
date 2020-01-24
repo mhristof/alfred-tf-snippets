@@ -16,4 +16,4 @@ jobs:
     - name: get terraform-provider-aws
       run: make terraform-provider-aws
     - name: generate all
-      run: make -j30
+      run: make
