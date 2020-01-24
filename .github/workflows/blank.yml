@@ -17,3 +17,5 @@ jobs:
       run: make terraform-provider-aws
     - name: generate all
       run: make
+    - name: test
+      run: ./options.sh | jq .
