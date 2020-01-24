@@ -14,6 +14,6 @@ jobs:
     - name: install codedown
       run: npm install -g codedown
     - name: get terraform-provider-aws
-      run: make terraform
+      run: make terraform-provider-aws
     - name: generate all
-      run: make -j30
+      run: make
