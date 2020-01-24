@@ -3,11 +3,9 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-this="$(dirname "$0")"
-
 cat << EOF
 {"items": [
-$(cat "$this"/alfred/*.json)
+$(cat alfred/*.json)
 {}
 ]}
 EOF

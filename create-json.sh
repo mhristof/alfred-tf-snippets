@@ -10,7 +10,7 @@ cat << EOF > "$file.json"
 {
     "uid": "$file",
     "title": "$base",
-    "arg": "$(readlink -f "$file")",
+    "arg": "$file",
     "match": "$(echo "$base" | tr -s '_-' ' ')"
 },
 EOF
