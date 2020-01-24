@@ -1,0 +1,6 @@
+{
+    "uid": "alfred/r-guardduty_ipset.html.markdown",
+    "title": "r-guardduty_ipset",
+    "arg": "alfred/r-guardduty_ipset.html.markdown",
+    "match": "r guardduty ipset"
+},

@@ -1,0 +1,6 @@
+{
+    "uid": "alfred/r-s3_bucket_public_access_block.html.markdown",
+    "title": "r-s3_bucket_public_access_block",
+    "arg": "alfred/r-s3_bucket_public_access_block.html.markdown",
+    "match": "r s3 bucket public access block"
+},
