@@ -32,7 +32,7 @@ alfred/r-%: terraform-provider-aws/website/docs/r/%
 	cat $^ | codedown hcl > $@
 
 %.json: %
-	create-json.sh $^
+	./create-json.sh $^
 
 clean:
 	rm -rf alfred
