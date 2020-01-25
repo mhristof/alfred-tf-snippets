@@ -31,7 +31,7 @@ jobs:
           current-version: ${{ steps.version.outputs.version }}
           version-fragment: ${{ steps.fragment.outputs.fragment }}
       - name: update current version
-        run: sed -i.bak 's/${{ steps.version.outputs.version }}/${{ steps.next_version.outputs.next-version }}'
+        run: sed -i.bak 's/${{ steps.version.outputs.version }}/${{ steps.next_version.outputs.next-version }}/'
       - name: commit the version bump
         uses: 'docker://cdssnc/auto-commit-github-action'
         with:
