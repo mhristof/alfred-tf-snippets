@@ -25,6 +25,8 @@ jobs:
         git checkout -b updating-generated-files
         git add alfred
         echo $id_rsa > id_rsa
+        git config --global user.email "mhristof@gmail.com"
+        git config --global user.name "Mbot"
         git commit -m 'Updated generated files'
         git push --set-upstream origin updating-generated-files
       env: # Or as an environment variable
