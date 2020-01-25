@@ -19,19 +19,16 @@ jobs:
       run: make
     - name: test
       run: ./options.sh | jq .
+    - uses: webfactory/ssh-agent@v0.2.0
+      with:
+        ssh-private-key: ${{ secrets.DEPLOY_ID_RSA }}
     - name: create pr
       run: |
         touch "alfred/$(date)"
         git checkout -b updating-generated-files
         git add alfred
-        echo -n $id_rsa > id_rsa
-        chmod 600 id_rsa
-        cat id_rsa
         git config --global user.email "mhristof@gmail.com"
         git config --global user.name "Mbot"
         git config --global url."git@github.com:".insteadOf "https://github.com/"
         git commit -m 'Updated generated files'
         git push --set-upstream origin updating-generated-files
-      env: # Or as an environment variable
-        id_rsa: ${{ secrets.DEPLOY_ID_RSA }}
-        GIT_SSH_COMMAND: "ssh -i id_rsa"
