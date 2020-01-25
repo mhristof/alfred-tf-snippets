@@ -32,10 +32,13 @@ jobs:
           version-fragment: ${{ steps.fragment.outputs.fragment }}
       - name: update current version
         run: sed -i.bak 's/${{ steps.version.outputs.version }}/${{ steps.next_version.outputs.next-version }}/' info.plist
+      - name: current branch
+        run: echo "::set-output name=branch::${GITHUB_REF}"
+        id: branch
       - name: push
         uses: github-actions-x/commit@v2.3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: ${GITHUB_REF}
+          push-branch: ${{ steps.branch.outputs.branch }}
           commit-message: 'bump version'
           files: info.plist
