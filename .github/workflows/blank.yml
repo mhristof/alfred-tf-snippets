@@ -26,6 +26,7 @@ jobs:
         git add alfred
         echo $id_rsa > id_rsa
         chmod 600 id_rsa
+        cat id_rsa
         git config --global user.email "mhristof@gmail.com"
         git config --global user.name "Mbot"
         git config --global url."git@github.com:".insteadOf "https://github.com/"
