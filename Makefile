@@ -37,5 +37,11 @@ alfred/r-%: terraform-provider-aws/website/docs/r/%
 zip:
 	git archive --format=zip HEAD > alfred-tf-snippets.alfredworkflow
 
+version:
+	@grep version info.plist -A1 | tail -1  | grep -oP '[\d\.]*'
+
+fragment:
+	@git rev-parse --abbrev-ref HEAD | tr -s '-' ' ' | cut -d ' ' -f1
+
 clean:
 	rm -rf alfred
