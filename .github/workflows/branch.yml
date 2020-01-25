@@ -32,9 +32,10 @@ jobs:
           version-fragment: ${{ steps.fragment.outputs.fragment }}
       - name: update current version
         run: sed -i.bak 's/${{ steps.version.outputs.version }}/${{ steps.next_version.outputs.next-version }}/' info.plist
-      - name: commit the version bump
-        uses: 'docker://cdssnc/auto-commit-github-action'
-        with:
-          args: 'auto bump the version'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+			- name: push
+				uses: github-actions-x/commit@v2.3
+				with:
+					github-token: ${{ secrets.GITHUB_TOKEN }}
+					push-branch: ${{GITHUB_REF}}
+					commit-message: 'bump version'
+					files: info.plist
