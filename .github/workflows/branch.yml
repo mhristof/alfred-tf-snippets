@@ -38,4 +38,4 @@ jobs:
       - name: push
         uses: "docker://cdssnc/auto-commit-github-action"
         with:
-          args:"bump version"
+          args: "bump version"
