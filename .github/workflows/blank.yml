@@ -27,6 +27,7 @@ jobs:
         echo $id_rsa > id_rsa
         git config --global user.email "mhristof@gmail.com"
         git config --global user.name "Mbot"
+        git config --global url."git@github.com:".insteadOf "https://github.com/"
         git commit -m 'Updated generated files'
         git push --set-upstream origin updating-generated-files
       env: # Or as an environment variable
