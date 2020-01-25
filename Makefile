@@ -5,10 +5,11 @@ SHELL := bash
 .SHELLFLAGS := -eu -o pipefail -c
 .ONESHELL:
 
-DATA := $(shell find terraform-provider-aws/website/docs/d/ -name '*.markdown')
+CURRENT_BRANCH ?= $(shell git rev-parse --abbrev-ref HEAD)
+DATA := $(shell find terraform-provider-aws/website/docs/d/ -name '*.markdown' 2>/dev/null)
 DATA := $(addprefix alfred/d-,$(notdir $(DATA)))
 
-RESOURCES := $(shell find terraform-provider-aws/website/docs/r/ -name '*.markdown')
+RESOURCES := $(shell find terraform-provider-aws/website/docs/r/ -name '*.markdown' 2>/dev/null)
 RESOURCES := $(addprefix alfred/r-,$(notdir $(RESOURCES)))
 
 JSON := $(addsuffix .json,$(RESOURCES))
@@ -41,7 +42,7 @@ version:
 	@grep version info.plist -A1 | tail -1  | grep -oP '[\d\.]*'
 
 fragment:
-	@git rev-parse --abbrev-ref HEAD | tr -s '-' ' ' | cut -d ' ' -f1
+	@echo $(CURRENT_BRANCH) | tr -s '-' ' ' | cut -d ' ' -f1
 
 clean:
 	rm -rf alfred
