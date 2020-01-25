@@ -36,9 +36,7 @@ jobs:
         run: echo "::set-output name=branch::${GITHUB_RE##*/}"
         id: branch
       - name: push
-        uses: github-actions-x/commit@v2.3
+        uses: "docker://cdssnc/auto-commit-github-action"
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: ${{ steps.branch.outputs.branch }}
-          commit-message: 'bump version'
-          files: info.plist
+          args:"bump version"
+          secrets: ${{ secrets.GITHUB_TOKEN }}
