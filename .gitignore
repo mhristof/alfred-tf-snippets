@@ -1,0 +1,5 @@
+*.swp
+*.pyc
+
+alfred/*.html.markdown
+terraform-provider-aws/
