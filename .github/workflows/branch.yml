@@ -20,11 +20,10 @@ jobs:
         id: version
       - name: current fragment
         run: |
+          export CURRENT_BRANCH=${GITHUB_REF##*/}
           make fragment
           echo "::set-output name=fragment::$(make fragment)"
         id: fragment
-        env:
-          CURRENT_BRANCH: ${GITHUB_REF##*/}
       - name: bump release version
         id: next_version
         uses: christian-draeger/increment-semantic-version@1.0.0
