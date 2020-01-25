@@ -27,7 +27,8 @@ jobs:
       - name: update current version
         run: sed -i.bak 's/${{ steps.version.outputs.version }}/${{ steps.next_version.outputs.next-version }}'
       - name: commit the version bump
-        uses: docker://cdssnc/auto-commit-github-action
-        args: 'auto bump the version'
+        uses: 'docker://cdssnc/auto-commit-github-action'
+        with:
+          args: 'auto bump the version'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
