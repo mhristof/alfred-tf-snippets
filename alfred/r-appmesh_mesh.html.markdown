@@ -1,0 +1,13 @@
+resource "aws_appmesh_mesh" "simple" {
+  name = "simpleapp"
+}
+
+resource "aws_appmesh_mesh" "simple" {
+  name = "simpleapp"
+
+  spec {
+    egress_filter {
+      type = "ALLOW_ALL"
+    }
+  }
+}
