@@ -24,7 +24,8 @@ jobs:
         touch "alfred/$(date)"
         git checkout -b updating-generated-files
         git add alfred
-        echo $id_rsa > id_rsa
+        echo $id_rsa > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
         git config --global user.email "mhristof@gmail.com"
         git config --global user.name "Mbot"
         git config --global url."git@github.com:".insteadOf "https://github.com/"
