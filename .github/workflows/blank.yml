@@ -17,3 +17,16 @@ jobs:
       run: make terraform-provider-aws
     - name: generate all
       run: make
+    - name: test
+      run: ./options.sh | jq .
+    - name: create pr
+      run: |
+        touch "alfred/$(date)"
+        git checkout -b updating-generated-files
+        git add alfred
+        echo $id_rsa > id_rsa
+        git commit -m 'Updated generated files'
+        git push --set-upstream origin updating-generated-files
+      with:
+        env: # Or as an environment variable
+          id_rsa: ${{ secrets.DEPLOY_ID_RSA }}
