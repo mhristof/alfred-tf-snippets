@@ -34,5 +34,8 @@ alfred/r-%: terraform-provider-aws/website/docs/r/%
 %.json: %
 	./create-json.sh $^
 
+zip:
+	git archive --format=zip HEAD > alfred-tf-snippets.alfredworkflow
+
 clean:
 	rm -rf alfred
