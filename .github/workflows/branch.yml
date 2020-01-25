@@ -14,10 +14,14 @@ jobs:
           ignore: master
       - uses: actions/checkout@v1
       - name: current version
-        run: echo "::set-output name=version::$(make version)"
+        run: |
+          make version
+          echo "::set-output name=version::$(make version)"
         id: version
       - name: current fragment
-        run: echo "::set-output name=fragment::$(make fragment)"
+        run: |
+          make fragment
+          echo "::set-output name=fragment::$(make fragment)"
         id: fragment
       - name: bump release version
         id: next_version
