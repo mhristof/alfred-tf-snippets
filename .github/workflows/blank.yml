@@ -27,6 +27,5 @@ jobs:
         echo $id_rsa > id_rsa
         git commit -m 'Updated generated files'
         git push --set-upstream origin updating-generated-files
-      with:
-        env: # Or as an environment variable
-          id_rsa: ${{ secrets.DEPLOY_ID_RSA }}
+      env: # Or as an environment variable
+        id_rsa: ${{ secrets.DEPLOY_ID_RSA }}
