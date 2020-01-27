@@ -44,3 +44,4 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
           git commit info.plist -m 'bumped version'
           git push origin HEAD:${{ steps.branch.outputs.branch }}
+
