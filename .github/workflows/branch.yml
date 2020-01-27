@@ -1,8 +1,9 @@
 name: branches
 
 on:
-  - create
-  - pull_request
+  push:
+    branches-ignore:
+      - master
 
 jobs:
   build:
