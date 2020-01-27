@@ -25,6 +25,7 @@ jobs:
         ssh-private-key: ${{ secrets.DEPLOY_ID_RSA }}
     - name: create pr
       run: |
+        git diff-index --quiet HEAD -- && exit 0
         commit=$(git --git-dir terraform-provider-aws/.git rev-parse --short HEAD)
         git checkout -b updating-generated-files-$commit
         git add alfred
