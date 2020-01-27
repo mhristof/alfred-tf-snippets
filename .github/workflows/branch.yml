@@ -29,7 +29,7 @@ jobs:
       - name: bump release version
         id: next_version
         run: |
-          wget https://raw.githubusercontent.com/christian-draeger/increment-semantic-version/master/entrypoint.sh -O entrypoint.sh
+          wget --quiet https://raw.githubusercontent.com/christian-draeger/increment-semantic-version/master/entrypoint.sh -O entrypoint.sh
           bash ./entrypoint.sh "${{ steps.version.outputs.version }}" "${{ steps.fragment.outputs.fragment }}"
           exit 0
       - name: update current version
