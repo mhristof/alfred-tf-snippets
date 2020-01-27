@@ -30,7 +30,8 @@ jobs:
         id: next_version
         run: |
           wget --quiet https://raw.githubusercontent.com/christian-draeger/increment-semantic-version/master/entrypoint.sh -O entrypoint.sh
-          bash ./entrypoint.sh "${{ steps.version.outputs.version }}" "${{ steps.fragment.outputs.fragment }}"
+          chmod +x ./entrypoint.sh
+          ./entrypoint.sh "${{ steps.version.outputs.version }}" "${{ steps.fragment.outputs.fragment }}"
           exit 0
       - name: update current version
         run: sed -i.bak 's/${{ steps.version.outputs.version }}/${{ steps.next_version.outputs.next-version }}/' info.plist
