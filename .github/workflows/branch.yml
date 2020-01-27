@@ -14,9 +14,9 @@ jobs:
           allowed_prefixes: 'major,feature,bug'
           ignore: master
       - uses: actions/checkout@v1
-      - name: current version
+      - name: current master version
         run: |
-          make version
+          make mversion
           echo "::set-output name=version::$(make version)"
         id: version
       - name: current fragment
