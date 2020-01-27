@@ -42,7 +42,7 @@ version:
 	@grep version info.plist -A1 | tail -1  | grep -oP '[\d\.]*'
 
 mversion:
-	@git show master:info.plist | grep version -A1 | tail -1  | grep -oP '[\d\.]*'
+	@git show origin/master:info.plist | grep version -A1 | tail -1  | grep -oP '[\d\.]*'
 
 fragment:
 	@echo $(CURRENT_BRANCH) | tr -s '-' ' ' | cut -d ' ' -f1
