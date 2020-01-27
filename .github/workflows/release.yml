@@ -27,3 +27,16 @@ jobs:
           body: "Hi, this is an automated release"
           draft: false
           prerelease: false
+			- name: create release zip
+        if: github.event.pull_request.merged == true
+				run: make zip
+      - name: Upload Release Asset
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./alfred-tf-snippets.alfredworkflow
+          asset_name: alfred-tf-snippets.alfredworkflow
+          asset_content_type: application/zip
