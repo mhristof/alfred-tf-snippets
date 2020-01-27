@@ -28,7 +28,7 @@ jobs:
         id: fragment
       - name: bump release version
         id: next_version
-        uses: christian-draeger/increment-semantic-version@1.0.0
+        uses: christian-draeger/increment-semantic-version@master
         with:
           current-version: ${{ steps.version.outputs.version }}
           version-fragment: ${{ steps.fragment.outputs.fragment }}
