@@ -1,0 +1,29 @@
+name: release
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  build:
+    run-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: current version
+        run: |
+          make version
+          echo "::set-output name=version::$(make version)"
+        id: version
+      - name: Create Release
+        if: github.event.pull_request.merged == true
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.version.outputs.version }}
+          release_name: Release ${{ github.ref }}
+          body: "Hi, this is an automated release"
+          draft: false
+          prerelease: false
