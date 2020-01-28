@@ -182,8 +182,7 @@ echo -n $dest</string>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>cat {query}
-pwd</string>
+				<string>cat {query}</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
