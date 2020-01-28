@@ -6,7 +6,12 @@ IFS=$'\n\t'
 cat << EOF
 {"items": [
 $(cat alfred/*.json)
-{}
+{
+    "uid": "update",
+    "title": "update",
+    "arg": "$(./check-for-new-release.sh)",
+    "match": "update"
+}
 ]}
 EOF
 
