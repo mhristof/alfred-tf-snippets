@@ -61,7 +61,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>B0.6.285-8082-400E-AEC1-52CC07810E4D</string>
+				<string>B0060185-8082-400E-AEC1-52CC07810E4D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -310,7 +310,7 @@ echo -n $dest</string>
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
-			<string>B0.6.285-8082-400E-AEC1-52CC07810E4D</string>
+			<string>B0060185-8082-400E-AEC1-52CC07810E4D</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -445,7 +445,7 @@ echo -n $dest</string>
 			<key>ypos</key>
 			<integer>350</integer>
 		</dict>
-		<key>B0.6.285-8082-400E-AEC1-52CC07810E4D</key>
+		<key>B0060185-8082-400E-AEC1-52CC07810E4D</key>
 		<dict>
 			<key>xpos</key>
 			<integer>825</integer>
