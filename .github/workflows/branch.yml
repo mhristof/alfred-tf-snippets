@@ -38,6 +38,7 @@ jobs:
         id: branch
       - name: push
         run: |
+          git diff-index --quiet HEAD -- && exit 0
           git config --global user.name 'Mike'
           git config --global user.email 'mhristof@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
