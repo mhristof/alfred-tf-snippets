@@ -3,3 +3,4 @@
 
 terraform-provider-aws/
 alfred-tf-snippets.alfredworkflow
+*.bak
