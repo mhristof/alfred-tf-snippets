@@ -15,10 +15,9 @@ jobs:
           allowed_prefixes: 'major,feature,bug'
           ignore: master
       - uses: actions/checkout@v1
-      - name: current version
+      - name: current master version
         run: |
-          make version
-          echo "::set-output name=version::$(make version)"
+          echo "::set-output name=version::$(make mversion)"
         id: version
       - name: current fragment
         run: |
@@ -28,7 +27,7 @@ jobs:
         id: fragment
       - name: bump release version
         id: next_version
-        uses: christian-draeger/increment-semantic-version@1.0.0
+        uses: christian-draeger/increment-semantic-version@4be8566
         with:
           current-version: ${{ steps.version.outputs.version }}
           version-fragment: ${{ steps.fragment.outputs.fragment }}
@@ -42,5 +41,5 @@ jobs:
           git config --global user.name 'Mike'
           git config --global user.email 'mhristof@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-          git commit info.plist -m 'bumped version'
+          git diff --exit-code || git commit info.plist -m 'bumped version'
           git push origin HEAD:${{ steps.branch.outputs.branch }}
