@@ -4,3 +4,9 @@
     "arg": "alfred/d-iam_role.html.markdown",
     "match": "d iam role"
 },
+{
+    "uid": "w-alfred/d-iam_role.html.markdown",
+    "title": "web d-iam_role",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/iam_role.html",
+    "match": "wd iam role"
+},

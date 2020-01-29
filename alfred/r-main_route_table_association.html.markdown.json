@@ -4,3 +4,9 @@
     "arg": "alfred/r-main_route_table_association.html.markdown",
     "match": "r main route table association"
 },
+{
+    "uid": "w-alfred/r-main_route_table_association.html.markdown",
+    "title": "web r-main_route_table_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/main_route_table_association.html",
+    "match": "wr main route table association"
+},

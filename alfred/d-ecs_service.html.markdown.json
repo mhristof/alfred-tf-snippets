@@ -4,3 +4,9 @@
     "arg": "alfred/d-ecs_service.html.markdown",
     "match": "d ecs service"
 },
+{
+    "uid": "w-alfred/d-ecs_service.html.markdown",
+    "title": "web d-ecs_service",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/ecs_service.html",
+    "match": "wd ecs service"
+},

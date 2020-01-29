@@ -4,3 +4,9 @@
     "arg": "alfred/r-accessanalyzer_analyzer.html.markdown",
     "match": "r accessanalyzer analyzer"
 },
+{
+    "uid": "w-alfred/r-accessanalyzer_analyzer.html.markdown",
+    "title": "web r-accessanalyzer_analyzer",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/accessanalyzer_analyzer.html",
+    "match": "wr accessanalyzer analyzer"
+},

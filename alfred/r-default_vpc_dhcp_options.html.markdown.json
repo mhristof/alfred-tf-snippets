@@ -4,3 +4,9 @@
     "arg": "alfred/r-default_vpc_dhcp_options.html.markdown",
     "match": "r default vpc dhcp options"
 },
+{
+    "uid": "w-alfred/r-default_vpc_dhcp_options.html.markdown",
+    "title": "web r-default_vpc_dhcp_options",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/default_vpc_dhcp_options.html",
+    "match": "wr default vpc dhcp options"
+},

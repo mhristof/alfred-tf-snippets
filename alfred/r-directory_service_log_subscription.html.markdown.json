@@ -4,3 +4,9 @@
     "arg": "alfred/r-directory_service_log_subscription.html.markdown",
     "match": "r directory service log subscription"
 },
+{
+    "uid": "w-alfred/r-directory_service_log_subscription.html.markdown",
+    "title": "web r-directory_service_log_subscription",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/directory_service_log_subscription.html",
+    "match": "wr directory service log subscription"
+},

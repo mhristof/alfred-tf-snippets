@@ -4,3 +4,9 @@
     "arg": "alfred/r-glacier_vault_lock.html.markdown",
     "match": "r glacier vault lock"
 },
+{
+    "uid": "w-alfred/r-glacier_vault_lock.html.markdown",
+    "title": "web r-glacier_vault_lock",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/glacier_vault_lock.html",
+    "match": "wr glacier vault lock"
+},

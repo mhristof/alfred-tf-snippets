@@ -4,3 +4,9 @@
     "arg": "alfred/d-ram_resource_share.html.markdown",
     "match": "d ram resource share"
 },
+{
+    "uid": "w-alfred/d-ram_resource_share.html.markdown",
+    "title": "web d-ram_resource_share",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/ram_resource_share.html",
+    "match": "wd ram resource share"
+},

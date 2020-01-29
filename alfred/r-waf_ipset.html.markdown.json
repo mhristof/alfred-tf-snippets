@@ -4,3 +4,9 @@
     "arg": "alfred/r-waf_ipset.html.markdown",
     "match": "r waf ipset"
 },
+{
+    "uid": "w-alfred/r-waf_ipset.html.markdown",
+    "title": "web r-waf_ipset",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/waf_ipset.html",
+    "match": "wr waf ipset"
+},

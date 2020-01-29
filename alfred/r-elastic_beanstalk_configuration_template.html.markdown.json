@@ -4,3 +4,9 @@
     "arg": "alfred/r-elastic_beanstalk_configuration_template.html.markdown",
     "match": "r elastic beanstalk configuration template"
 },
+{
+    "uid": "w-alfred/r-elastic_beanstalk_configuration_template.html.markdown",
+    "title": "web r-elastic_beanstalk_configuration_template",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/elastic_beanstalk_configuration_template.html",
+    "match": "wr elastic beanstalk configuration template"
+},

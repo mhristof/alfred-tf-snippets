@@ -4,3 +4,9 @@
     "arg": "alfred/r-storagegateway_cache.html.markdown",
     "match": "r storagegateway cache"
 },
+{
+    "uid": "w-alfred/r-storagegateway_cache.html.markdown",
+    "title": "web r-storagegateway_cache",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/storagegateway_cache.html",
+    "match": "wr storagegateway cache"
+},

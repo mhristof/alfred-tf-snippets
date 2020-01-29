@@ -4,3 +4,9 @@
     "arg": "alfred/r-backup_selection.html.markdown",
     "match": "r backup selection"
 },
+{
+    "uid": "w-alfred/r-backup_selection.html.markdown",
+    "title": "web r-backup_selection",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/backup_selection.html",
+    "match": "wr backup selection"
+},

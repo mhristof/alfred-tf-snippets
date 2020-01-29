@@ -4,3 +4,9 @@
     "arg": "alfred/r-appautoscaling_scheduled_action.html.markdown",
     "match": "r appautoscaling scheduled action"
 },
+{
+    "uid": "w-alfred/r-appautoscaling_scheduled_action.html.markdown",
+    "title": "web r-appautoscaling_scheduled_action",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appautoscaling_scheduled_action.html",
+    "match": "wr appautoscaling scheduled action"
+},

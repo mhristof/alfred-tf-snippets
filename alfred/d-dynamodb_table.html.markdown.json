@@ -4,3 +4,9 @@
     "arg": "alfred/d-dynamodb_table.html.markdown",
     "match": "d dynamodb table"
 },
+{
+    "uid": "w-alfred/d-dynamodb_table.html.markdown",
+    "title": "web d-dynamodb_table",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/dynamodb_table.html",
+    "match": "wd dynamodb table"
+},

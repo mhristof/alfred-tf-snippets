@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_instance_profile.html.markdown",
     "match": "r iam instance profile"
 },
+{
+    "uid": "w-alfred/r-iam_instance_profile.html.markdown",
+    "title": "web r-iam_instance_profile",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_instance_profile.html",
+    "match": "wr iam instance profile"
+},

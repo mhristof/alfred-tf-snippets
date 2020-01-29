@@ -4,3 +4,9 @@
     "arg": "alfred/r-launch_configuration.html.markdown",
     "match": "r launch configuration"
 },
+{
+    "uid": "w-alfred/r-launch_configuration.html.markdown",
+    "title": "web r-launch_configuration",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/launch_configuration.html",
+    "match": "wr launch configuration"
+},

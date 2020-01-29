@@ -4,3 +4,9 @@
     "arg": "alfred/r-macie_member_account_association.html.markdown",
     "match": "r macie member account association"
 },
+{
+    "uid": "w-alfred/r-macie_member_account_association.html.markdown",
+    "title": "web r-macie_member_account_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/macie_member_account_association.html",
+    "match": "wr macie member account association"
+},

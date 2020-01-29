@@ -4,3 +4,9 @@
     "arg": "alfred/r-vpn_connection_route.html.markdown",
     "match": "r vpn connection route"
 },
+{
+    "uid": "w-alfred/r-vpn_connection_route.html.markdown",
+    "title": "web r-vpn_connection_route",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/vpn_connection_route.html",
+    "match": "wr vpn connection route"
+},

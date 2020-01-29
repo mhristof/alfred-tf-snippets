@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_domain_identity_verification.html.markdown",
     "match": "r ses domain identity verification"
 },
+{
+    "uid": "w-alfred/r-ses_domain_identity_verification.html.markdown",
+    "title": "web r-ses_domain_identity_verification",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_domain_identity_verification.html",
+    "match": "wr ses domain identity verification"
+},

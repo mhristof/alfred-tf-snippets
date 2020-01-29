@@ -4,3 +4,9 @@
     "arg": "alfred/r-cognito_user_pool_client.markdown",
     "match": "r cognito user pool client.markdown"
 },
+{
+    "uid": "w-alfred/r-cognito_user_pool_client.markdown",
+    "title": "web r-cognito_user_pool_client.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cognito_user_pool_client",
+    "match": "wr cognito user pool client.markdown"
+},

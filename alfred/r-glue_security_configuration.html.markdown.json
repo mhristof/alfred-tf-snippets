@@ -4,3 +4,9 @@
     "arg": "alfred/r-glue_security_configuration.html.markdown",
     "match": "r glue security configuration"
 },
+{
+    "uid": "w-alfred/r-glue_security_configuration.html.markdown",
+    "title": "web r-glue_security_configuration",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/glue_security_configuration.html",
+    "match": "wr glue security configuration"
+},

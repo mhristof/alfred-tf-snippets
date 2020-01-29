@@ -4,3 +4,9 @@
     "arg": "alfred/r-s3_bucket_policy.html.markdown",
     "match": "r s3 bucket policy"
 },
+{
+    "uid": "w-alfred/r-s3_bucket_policy.html.markdown",
+    "title": "web r-s3_bucket_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/s3_bucket_policy.html",
+    "match": "wr s3 bucket policy"
+},

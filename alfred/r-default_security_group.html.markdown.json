@@ -4,3 +4,9 @@
     "arg": "alfred/r-default_security_group.html.markdown",
     "match": "r default security group"
 },
+{
+    "uid": "w-alfred/r-default_security_group.html.markdown",
+    "title": "web r-default_security_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/default_security_group.html",
+    "match": "wr default security group"
+},

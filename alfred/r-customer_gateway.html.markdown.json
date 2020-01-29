@@ -4,3 +4,9 @@
     "arg": "alfred/r-customer_gateway.html.markdown",
     "match": "r customer gateway"
 },
+{
+    "uid": "w-alfred/r-customer_gateway.html.markdown",
+    "title": "web r-customer_gateway",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/customer_gateway.html",
+    "match": "wr customer gateway"
+},

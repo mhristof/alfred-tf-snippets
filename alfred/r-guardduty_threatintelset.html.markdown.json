@@ -4,3 +4,9 @@
     "arg": "alfred/r-guardduty_threatintelset.html.markdown",
     "match": "r guardduty threatintelset"
 },
+{
+    "uid": "w-alfred/r-guardduty_threatintelset.html.markdown",
+    "title": "web r-guardduty_threatintelset",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/guardduty_threatintelset.html",
+    "match": "wr guardduty threatintelset"
+},

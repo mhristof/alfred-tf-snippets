@@ -4,3 +4,9 @@
     "arg": "alfred/r-storagegateway_nfs_file_share.html.markdown",
     "match": "r storagegateway nfs file share"
 },
+{
+    "uid": "w-alfred/r-storagegateway_nfs_file_share.html.markdown",
+    "title": "web r-storagegateway_nfs_file_share",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/storagegateway_nfs_file_share.html",
+    "match": "wr storagegateway nfs file share"
+},

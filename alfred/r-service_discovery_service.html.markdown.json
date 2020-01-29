@@ -4,3 +4,9 @@
     "arg": "alfred/r-service_discovery_service.html.markdown",
     "match": "r service discovery service"
 },
+{
+    "uid": "w-alfred/r-service_discovery_service.html.markdown",
+    "title": "web r-service_discovery_service",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/service_discovery_service.html",
+    "match": "wr service discovery service"
+},

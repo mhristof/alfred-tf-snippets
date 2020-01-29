@@ -4,3 +4,9 @@
     "arg": "alfred/r-lightsail_static_ip.html.markdown",
     "match": "r lightsail static ip"
 },
+{
+    "uid": "w-alfred/r-lightsail_static_ip.html.markdown",
+    "title": "web r-lightsail_static_ip",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lightsail_static_ip.html",
+    "match": "wr lightsail static ip"
+},

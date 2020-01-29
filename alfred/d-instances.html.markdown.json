@@ -4,3 +4,9 @@
     "arg": "alfred/d-instances.html.markdown",
     "match": "d instances"
 },
+{
+    "uid": "w-alfred/d-instances.html.markdown",
+    "title": "web d-instances",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/instances.html",
+    "match": "wd instances"
+},

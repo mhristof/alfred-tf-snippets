@@ -4,3 +4,9 @@
     "arg": "alfred/r-opsworks_application.html.markdown",
     "match": "r opsworks application"
 },
+{
+    "uid": "w-alfred/r-opsworks_application.html.markdown",
+    "title": "web r-opsworks_application",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/opsworks_application.html",
+    "match": "wr opsworks application"
+},

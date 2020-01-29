@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_identity_policy.html.markdown",
     "match": "r ses identity policy"
 },
+{
+    "uid": "w-alfred/r-ses_identity_policy.html.markdown",
+    "title": "web r-ses_identity_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_identity_policy.html",
+    "match": "wr ses identity policy"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-inspector_rules_packages.html.markdown",
     "match": "d inspector rules packages"
 },
+{
+    "uid": "w-alfred/d-inspector_rules_packages.html.markdown",
+    "title": "web d-inspector_rules_packages",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/inspector_rules_packages.html",
+    "match": "wd inspector rules packages"
+},

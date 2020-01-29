@@ -4,3 +4,9 @@
     "arg": "alfred/r-appsync_datasource.html.markdown",
     "match": "r appsync datasource"
 },
+{
+    "uid": "w-alfred/r-appsync_datasource.html.markdown",
+    "title": "web r-appsync_datasource",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appsync_datasource.html",
+    "match": "wr appsync datasource"
+},

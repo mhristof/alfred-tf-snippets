@@ -4,3 +4,9 @@
     "arg": "alfred/r-fsx_lustre_file_system.html.markdown",
     "match": "r fsx lustre file system"
 },
+{
+    "uid": "w-alfred/r-fsx_lustre_file_system.html.markdown",
+    "title": "web r-fsx_lustre_file_system",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/fsx_lustre_file_system.html",
+    "match": "wr fsx lustre file system"
+},

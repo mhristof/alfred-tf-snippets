@@ -4,3 +4,9 @@
     "arg": "alfred/r-dms_endpoint.html.markdown",
     "match": "r dms endpoint"
 },
+{
+    "uid": "w-alfred/r-dms_endpoint.html.markdown",
+    "title": "web r-dms_endpoint",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dms_endpoint.html",
+    "match": "wr dms endpoint"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-appsync_resolver.html.markdown",
     "match": "r appsync resolver"
 },
+{
+    "uid": "w-alfred/r-appsync_resolver.html.markdown",
+    "title": "web r-appsync_resolver",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appsync_resolver.html",
+    "match": "wr appsync resolver"
+},

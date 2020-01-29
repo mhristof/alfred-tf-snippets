@@ -4,3 +4,9 @@
     "arg": "alfred/r-servicequotas_service_quota.html.markdown",
     "match": "r servicequotas service quota"
 },
+{
+    "uid": "w-alfred/r-servicequotas_service_quota.html.markdown",
+    "title": "web r-servicequotas_service_quota",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/servicequotas_service_quota.html",
+    "match": "wr servicequotas service quota"
+},

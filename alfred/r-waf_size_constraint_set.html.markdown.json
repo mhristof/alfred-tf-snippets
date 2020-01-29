@@ -4,3 +4,9 @@
     "arg": "alfred/r-waf_size_constraint_set.html.markdown",
     "match": "r waf size constraint set"
 },
+{
+    "uid": "w-alfred/r-waf_size_constraint_set.html.markdown",
+    "title": "web r-waf_size_constraint_set",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/waf_size_constraint_set.html",
+    "match": "wr waf size constraint set"
+},

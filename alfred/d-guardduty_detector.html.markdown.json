@@ -4,3 +4,9 @@
     "arg": "alfred/d-guardduty_detector.html.markdown",
     "match": "d guardduty detector"
 },
+{
+    "uid": "w-alfred/d-guardduty_detector.html.markdown",
+    "title": "web d-guardduty_detector",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/guardduty_detector.html",
+    "match": "wd guardduty detector"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-lambda_event_source_mapping.html.markdown",
     "match": "r lambda event source mapping"
 },
+{
+    "uid": "w-alfred/r-lambda_event_source_mapping.html.markdown",
+    "title": "web r-lambda_event_source_mapping",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lambda_event_source_mapping.html",
+    "match": "wr lambda event source mapping"
+},

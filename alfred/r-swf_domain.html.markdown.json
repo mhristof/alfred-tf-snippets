@@ -4,3 +4,9 @@
     "arg": "alfred/r-swf_domain.html.markdown",
     "match": "r swf domain"
 },
+{
+    "uid": "w-alfred/r-swf_domain.html.markdown",
+    "title": "web r-swf_domain",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/swf_domain.html",
+    "match": "wr swf domain"
+},

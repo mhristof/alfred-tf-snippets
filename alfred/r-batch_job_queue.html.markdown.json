@@ -4,3 +4,9 @@
     "arg": "alfred/r-batch_job_queue.html.markdown",
     "match": "r batch job queue"
 },
+{
+    "uid": "w-alfred/r-batch_job_queue.html.markdown",
+    "title": "web r-batch_job_queue",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/batch_job_queue.html",
+    "match": "wr batch job queue"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-elastic_beanstalk_hosted_zone.html.markdown",
     "match": "d elastic beanstalk hosted zone"
 },
+{
+    "uid": "w-alfred/d-elastic_beanstalk_hosted_zone.html.markdown",
+    "title": "web d-elastic_beanstalk_hosted_zone",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/elastic_beanstalk_hosted_zone.html",
+    "match": "wd elastic beanstalk hosted zone"
+},

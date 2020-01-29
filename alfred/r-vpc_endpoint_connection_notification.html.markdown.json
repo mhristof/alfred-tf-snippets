@@ -4,3 +4,9 @@
     "arg": "alfred/r-vpc_endpoint_connection_notification.html.markdown",
     "match": "r vpc endpoint connection notification"
 },
+{
+    "uid": "w-alfred/r-vpc_endpoint_connection_notification.html.markdown",
+    "title": "web r-vpc_endpoint_connection_notification",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/vpc_endpoint_connection_notification.html",
+    "match": "wr vpc endpoint connection notification"
+},

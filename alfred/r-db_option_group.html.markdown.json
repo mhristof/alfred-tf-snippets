@@ -4,3 +4,9 @@
     "arg": "alfred/r-db_option_group.html.markdown",
     "match": "r db option group"
 },
+{
+    "uid": "w-alfred/r-db_option_group.html.markdown",
+    "title": "web r-db_option_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/db_option_group.html",
+    "match": "wr db option group"
+},

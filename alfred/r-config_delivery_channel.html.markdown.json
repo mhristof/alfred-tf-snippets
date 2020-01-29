@@ -4,3 +4,9 @@
     "arg": "alfred/r-config_delivery_channel.html.markdown",
     "match": "r config delivery channel"
 },
+{
+    "uid": "w-alfred/r-config_delivery_channel.html.markdown",
+    "title": "web r-config_delivery_channel",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/config_delivery_channel.html",
+    "match": "wr config delivery channel"
+},

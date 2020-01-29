@@ -4,3 +4,9 @@
     "arg": "alfred/r-ram_principal_association.markdown",
     "match": "r ram principal association.markdown"
 },
+{
+    "uid": "w-alfred/r-ram_principal_association.markdown",
+    "title": "web r-ram_principal_association.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ram_principal_association",
+    "match": "wr ram principal association.markdown"
+},

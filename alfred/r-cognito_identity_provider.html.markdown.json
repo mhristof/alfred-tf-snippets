@@ -4,3 +4,9 @@
     "arg": "alfred/r-cognito_identity_provider.html.markdown",
     "match": "r cognito identity provider"
 },
+{
+    "uid": "w-alfred/r-cognito_identity_provider.html.markdown",
+    "title": "web r-cognito_identity_provider",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cognito_identity_provider.html",
+    "match": "wr cognito identity provider"
+},

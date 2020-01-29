@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_active_receipt_rule_set.html.markdown",
     "match": "r ses active receipt rule set"
 },
+{
+    "uid": "w-alfred/r-ses_active_receipt_rule_set.html.markdown",
+    "title": "web r-ses_active_receipt_rule_set",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_active_receipt_rule_set.html",
+    "match": "wr ses active receipt rule set"
+},

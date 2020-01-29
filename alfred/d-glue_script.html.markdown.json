@@ -4,3 +4,9 @@
     "arg": "alfred/d-glue_script.html.markdown",
     "match": "d glue script"
 },
+{
+    "uid": "w-alfred/d-glue_script.html.markdown",
+    "title": "web d-glue_script",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/glue_script.html",
+    "match": "wd glue script"
+},

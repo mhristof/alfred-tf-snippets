@@ -4,3 +4,9 @@
     "arg": "alfred/d-wafregional_web_acl.html.markdown",
     "match": "d wafregional web acl"
 },
+{
+    "uid": "w-alfred/d-wafregional_web_acl.html.markdown",
+    "title": "web d-wafregional_web_acl",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/wafregional_web_acl.html",
+    "match": "wd wafregional web acl"
+},

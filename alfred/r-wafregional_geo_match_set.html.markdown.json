@@ -4,3 +4,9 @@
     "arg": "alfred/r-wafregional_geo_match_set.html.markdown",
     "match": "r wafregional geo match set"
 },
+{
+    "uid": "w-alfred/r-wafregional_geo_match_set.html.markdown",
+    "title": "web r-wafregional_geo_match_set",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/wafregional_geo_match_set.html",
+    "match": "wr wafregional geo match set"
+},

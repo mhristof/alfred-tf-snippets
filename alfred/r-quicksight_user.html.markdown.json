@@ -4,3 +4,9 @@
     "arg": "alfred/r-quicksight_user.html.markdown",
     "match": "r quicksight user"
 },
+{
+    "uid": "w-alfred/r-quicksight_user.html.markdown",
+    "title": "web r-quicksight_user",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/quicksight_user.html",
+    "match": "wr quicksight user"
+},

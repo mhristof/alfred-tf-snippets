@@ -4,3 +4,9 @@
     "arg": "alfred/d-lb.html.markdown",
     "match": "d lb"
 },
+{
+    "uid": "w-alfred/d-lb.html.markdown",
+    "title": "web d-lb",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/lb.html",
+    "match": "wd lb"
+},

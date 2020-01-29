@@ -4,3 +4,9 @@
     "arg": "alfred/r-autoscaling_policy.html.markdown",
     "match": "r autoscaling policy"
 },
+{
+    "uid": "w-alfred/r-autoscaling_policy.html.markdown",
+    "title": "web r-autoscaling_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/autoscaling_policy.html",
+    "match": "wr autoscaling policy"
+},

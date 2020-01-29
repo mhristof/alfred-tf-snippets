@@ -4,3 +4,9 @@
     "arg": "alfred/d-cloudhsm_v2_cluster.html.markdown",
     "match": "d cloudhsm v2 cluster"
 },
+{
+    "uid": "w-alfred/d-cloudhsm_v2_cluster.html.markdown",
+    "title": "web d-cloudhsm_v2_cluster",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/cloudhsm_v2_cluster.html",
+    "match": "wd cloudhsm v2 cluster"
+},

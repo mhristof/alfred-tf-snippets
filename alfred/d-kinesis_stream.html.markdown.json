@@ -4,3 +4,9 @@
     "arg": "alfred/d-kinesis_stream.html.markdown",
     "match": "d kinesis stream"
 },
+{
+    "uid": "w-alfred/d-kinesis_stream.html.markdown",
+    "title": "web d-kinesis_stream",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/kinesis_stream.html",
+    "match": "wd kinesis stream"
+},

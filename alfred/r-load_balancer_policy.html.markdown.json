@@ -4,3 +4,9 @@
     "arg": "alfred/r-load_balancer_policy.html.markdown",
     "match": "r load balancer policy"
 },
+{
+    "uid": "w-alfred/r-load_balancer_policy.html.markdown",
+    "title": "web r-load_balancer_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/load_balancer_policy.html",
+    "match": "wr load balancer policy"
+},

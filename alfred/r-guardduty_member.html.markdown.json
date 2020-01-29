@@ -4,3 +4,9 @@
     "arg": "alfred/r-guardduty_member.html.markdown",
     "match": "r guardduty member"
 },
+{
+    "uid": "w-alfred/r-guardduty_member.html.markdown",
+    "title": "web r-guardduty_member",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/guardduty_member.html",
+    "match": "wr guardduty member"
+},

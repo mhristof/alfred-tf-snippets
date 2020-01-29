@@ -4,3 +4,9 @@
     "arg": "alfred/d-ecr_image.html.markdown",
     "match": "d ecr image"
 },
+{
+    "uid": "w-alfred/d-ecr_image.html.markdown",
+    "title": "web d-ecr_image",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/ecr_image.html",
+    "match": "wd ecr image"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-appmesh_virtual_router.html.markdown",
     "match": "r appmesh virtual router"
 },
+{
+    "uid": "w-alfred/r-appmesh_virtual_router.html.markdown",
+    "title": "web r-appmesh_virtual_router",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appmesh_virtual_router.html",
+    "match": "wr appmesh virtual router"
+},

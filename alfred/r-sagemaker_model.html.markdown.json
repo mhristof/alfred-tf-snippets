@@ -4,3 +4,9 @@
     "arg": "alfred/r-sagemaker_model.html.markdown",
     "match": "r sagemaker model"
 },
+{
+    "uid": "w-alfred/r-sagemaker_model.html.markdown",
+    "title": "web r-sagemaker_model",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sagemaker_model.html",
+    "match": "wr sagemaker model"
+},

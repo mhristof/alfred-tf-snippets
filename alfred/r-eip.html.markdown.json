@@ -4,3 +4,9 @@
     "arg": "alfred/r-eip.html.markdown",
     "match": "r eip"
 },
+{
+    "uid": "w-alfred/r-eip.html.markdown",
+    "title": "web r-eip",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/eip.html",
+    "match": "wr eip"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-ec2_transit_gateway.html.markdown",
     "match": "r ec2 transit gateway"
 },
+{
+    "uid": "w-alfred/r-ec2_transit_gateway.html.markdown",
+    "title": "web r-ec2_transit_gateway",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ec2_transit_gateway.html",
+    "match": "wr ec2 transit gateway"
+},

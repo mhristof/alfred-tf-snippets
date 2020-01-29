@@ -4,3 +4,9 @@
     "arg": "alfred/d-iam_policy.html.markdown",
     "match": "d iam policy"
 },
+{
+    "uid": "w-alfred/d-iam_policy.html.markdown",
+    "title": "web d-iam_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/iam_policy.html",
+    "match": "wd iam policy"
+},

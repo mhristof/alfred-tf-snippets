@@ -4,3 +4,9 @@
     "arg": "alfred/r-ssm_association.html.markdown",
     "match": "r ssm association"
 },
+{
+    "uid": "w-alfred/r-ssm_association.html.markdown",
+    "title": "web r-ssm_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ssm_association.html",
+    "match": "wr ssm association"
+},

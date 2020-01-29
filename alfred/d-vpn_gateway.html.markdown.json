@@ -4,3 +4,9 @@
     "arg": "alfred/d-vpn_gateway.html.markdown",
     "match": "d vpn gateway"
 },
+{
+    "uid": "w-alfred/d-vpn_gateway.html.markdown",
+    "title": "web d-vpn_gateway",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/vpn_gateway.html",
+    "match": "wd vpn gateway"
+},

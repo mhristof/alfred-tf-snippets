@@ -4,3 +4,9 @@
     "arg": "alfred/r-db_cluster_snapshot.html.markdown",
     "match": "r db cluster snapshot"
 },
+{
+    "uid": "w-alfred/r-db_cluster_snapshot.html.markdown",
+    "title": "web r-db_cluster_snapshot",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/db_cluster_snapshot.html",
+    "match": "wr db cluster snapshot"
+},

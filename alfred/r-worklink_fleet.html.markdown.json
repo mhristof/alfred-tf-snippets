@@ -4,3 +4,9 @@
     "arg": "alfred/r-worklink_fleet.html.markdown",
     "match": "r worklink fleet"
 },
+{
+    "uid": "w-alfred/r-worklink_fleet.html.markdown",
+    "title": "web r-worklink_fleet",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/worklink_fleet.html",
+    "match": "wr worklink fleet"
+},

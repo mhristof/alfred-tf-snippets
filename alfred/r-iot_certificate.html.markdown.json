@@ -4,3 +4,9 @@
     "arg": "alfred/r-iot_certificate.html.markdown",
     "match": "r iot certificate"
 },
+{
+    "uid": "w-alfred/r-iot_certificate.html.markdown",
+    "title": "web r-iot_certificate",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iot_certificate.html",
+    "match": "wr iot certificate"
+},

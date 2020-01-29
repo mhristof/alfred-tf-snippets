@@ -4,3 +4,9 @@
     "arg": "alfred/r-pinpoint_gcm_channel.markdown",
     "match": "r pinpoint gcm channel.markdown"
 },
+{
+    "uid": "w-alfred/r-pinpoint_gcm_channel.markdown",
+    "title": "web r-pinpoint_gcm_channel.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/pinpoint_gcm_channel",
+    "match": "wr pinpoint gcm channel.markdown"
+},

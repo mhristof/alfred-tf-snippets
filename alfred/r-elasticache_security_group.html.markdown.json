@@ -4,3 +4,9 @@
     "arg": "alfred/r-elasticache_security_group.html.markdown",
     "match": "r elasticache security group"
 },
+{
+    "uid": "w-alfred/r-elasticache_security_group.html.markdown",
+    "title": "web r-elasticache_security_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/elasticache_security_group.html",
+    "match": "wr elasticache security group"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-config_config_rule.html.markdown",
     "match": "r config config rule"
 },
+{
+    "uid": "w-alfred/r-config_config_rule.html.markdown",
+    "title": "web r-config_config_rule",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/config_config_rule.html",
+    "match": "wr config config rule"
+},

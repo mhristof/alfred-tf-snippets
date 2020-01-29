@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_identity_notification_topic.markdown",
     "match": "r ses identity notification topic.markdown"
 },
+{
+    "uid": "w-alfred/r-ses_identity_notification_topic.markdown",
+    "title": "web r-ses_identity_notification_topic.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_identity_notification_topic",
+    "match": "wr ses identity notification topic.markdown"
+},

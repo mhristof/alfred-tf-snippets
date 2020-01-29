@@ -4,3 +4,9 @@
     "arg": "alfred/r-mq_configuration.html.markdown",
     "match": "r mq configuration"
 },
+{
+    "uid": "w-alfred/r-mq_configuration.html.markdown",
+    "title": "web r-mq_configuration",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/mq_configuration.html",
+    "match": "wr mq configuration"
+},

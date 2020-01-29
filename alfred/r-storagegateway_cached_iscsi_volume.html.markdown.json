@@ -4,3 +4,9 @@
     "arg": "alfred/r-storagegateway_cached_iscsi_volume.html.markdown",
     "match": "r storagegateway cached iscsi volume"
 },
+{
+    "uid": "w-alfred/r-storagegateway_cached_iscsi_volume.html.markdown",
+    "title": "web r-storagegateway_cached_iscsi_volume",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/storagegateway_cached_iscsi_volume.html",
+    "match": "wr storagegateway cached iscsi volume"
+},

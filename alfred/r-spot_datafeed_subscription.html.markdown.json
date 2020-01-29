@@ -4,3 +4,9 @@
     "arg": "alfred/r-spot_datafeed_subscription.html.markdown",
     "match": "r spot datafeed subscription"
 },
+{
+    "uid": "w-alfred/r-spot_datafeed_subscription.html.markdown",
+    "title": "web r-spot_datafeed_subscription",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/spot_datafeed_subscription.html",
+    "match": "wr spot datafeed subscription"
+},

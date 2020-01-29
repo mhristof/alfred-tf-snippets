@@ -4,3 +4,9 @@
     "arg": "alfred/r-athena_database.html.markdown",
     "match": "r athena database"
 },
+{
+    "uid": "w-alfred/r-athena_database.html.markdown",
+    "title": "web r-athena_database",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/athena_database.html",
+    "match": "wr athena database"
+},

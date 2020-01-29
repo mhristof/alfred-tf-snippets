@@ -4,3 +4,9 @@
     "arg": "alfred/r-ssm_patch_group.html.markdown",
     "match": "r ssm patch group"
 },
+{
+    "uid": "w-alfred/r-ssm_patch_group.html.markdown",
+    "title": "web r-ssm_patch_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ssm_patch_group.html",
+    "match": "wr ssm patch group"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-macie_s3_bucket_association.html.markdown",
     "match": "r macie s3 bucket association"
 },
+{
+    "uid": "w-alfred/r-macie_s3_bucket_association.html.markdown",
+    "title": "web r-macie_s3_bucket_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/macie_s3_bucket_association.html",
+    "match": "wr macie s3 bucket association"
+},

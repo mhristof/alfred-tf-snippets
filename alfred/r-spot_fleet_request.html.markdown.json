@@ -4,3 +4,9 @@
     "arg": "alfred/r-spot_fleet_request.html.markdown",
     "match": "r spot fleet request"
 },
+{
+    "uid": "w-alfred/r-spot_fleet_request.html.markdown",
+    "title": "web r-spot_fleet_request",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/spot_fleet_request.html",
+    "match": "wr spot fleet request"
+},

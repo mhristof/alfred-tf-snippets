@@ -4,3 +4,9 @@
     "arg": "alfred/r-pinpoint_event_stream.markdown",
     "match": "r pinpoint event stream.markdown"
 },
+{
+    "uid": "w-alfred/r-pinpoint_event_stream.markdown",
+    "title": "web r-pinpoint_event_stream.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/pinpoint_event_stream",
+    "match": "wr pinpoint event stream.markdown"
+},

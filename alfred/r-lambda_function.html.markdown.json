@@ -4,3 +4,9 @@
     "arg": "alfred/r-lambda_function.html.markdown",
     "match": "r lambda function"
 },
+{
+    "uid": "w-alfred/r-lambda_function.html.markdown",
+    "title": "web r-lambda_function",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lambda_function.html",
+    "match": "wr lambda function"
+},

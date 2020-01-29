@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudwatch_log_stream.html.markdown",
     "match": "r cloudwatch log stream"
 },
+{
+    "uid": "w-alfred/r-cloudwatch_log_stream.html.markdown",
+    "title": "web r-cloudwatch_log_stream",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudwatch_log_stream.html",
+    "match": "wr cloudwatch log stream"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-datasync_location_s3.html.markdown",
     "match": "r datasync location s3"
 },
+{
+    "uid": "w-alfred/r-datasync_location_s3.html.markdown",
+    "title": "web r-datasync_location_s3",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/datasync_location_s3.html",
+    "match": "wr datasync location s3"
+},

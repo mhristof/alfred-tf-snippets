@@ -4,3 +4,9 @@
     "arg": "alfred/r-dx_bgp_peer.html.markdown",
     "match": "r dx bgp peer"
 },
+{
+    "uid": "w-alfred/r-dx_bgp_peer.html.markdown",
+    "title": "web r-dx_bgp_peer",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dx_bgp_peer.html",
+    "match": "wr dx bgp peer"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-batch_job_definition.html.markdown",
     "match": "r batch job definition"
 },
+{
+    "uid": "w-alfred/r-batch_job_definition.html.markdown",
+    "title": "web r-batch_job_definition",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/batch_job_definition.html",
+    "match": "wr batch job definition"
+},

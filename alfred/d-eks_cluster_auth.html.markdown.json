@@ -4,3 +4,9 @@
     "arg": "alfred/d-eks_cluster_auth.html.markdown",
     "match": "d eks cluster auth"
 },
+{
+    "uid": "w-alfred/d-eks_cluster_auth.html.markdown",
+    "title": "web d-eks_cluster_auth",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/eks_cluster_auth.html",
+    "match": "wd eks cluster auth"
+},

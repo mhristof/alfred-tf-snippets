@@ -4,3 +4,9 @@
     "arg": "alfred/r-codedeploy_app.html.markdown",
     "match": "r codedeploy app"
 },
+{
+    "uid": "w-alfred/r-codedeploy_app.html.markdown",
+    "title": "web r-codedeploy_app",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/codedeploy_app.html",
+    "match": "wr codedeploy app"
+},

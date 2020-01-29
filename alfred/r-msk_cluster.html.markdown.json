@@ -4,3 +4,9 @@
     "arg": "alfred/r-msk_cluster.html.markdown",
     "match": "r msk cluster"
 },
+{
+    "uid": "w-alfred/r-msk_cluster.html.markdown",
+    "title": "web r-msk_cluster",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/msk_cluster.html",
+    "match": "wr msk cluster"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-autoscaling_groups.html.markdown",
     "match": "d autoscaling groups"
 },
+{
+    "uid": "w-alfred/d-autoscaling_groups.html.markdown",
+    "title": "web d-autoscaling_groups",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/autoscaling_groups.html",
+    "match": "wd autoscaling groups"
+},

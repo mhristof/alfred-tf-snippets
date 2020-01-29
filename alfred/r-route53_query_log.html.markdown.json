@@ -4,3 +4,9 @@
     "arg": "alfred/r-route53_query_log.html.markdown",
     "match": "r route53 query log"
 },
+{
+    "uid": "w-alfred/r-route53_query_log.html.markdown",
+    "title": "web r-route53_query_log",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/route53_query_log.html",
+    "match": "wr route53 query log"
+},

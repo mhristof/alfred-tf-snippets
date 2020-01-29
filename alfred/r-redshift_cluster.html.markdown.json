@@ -4,3 +4,9 @@
     "arg": "alfred/r-redshift_cluster.html.markdown",
     "match": "r redshift cluster"
 },
+{
+    "uid": "w-alfred/r-redshift_cluster.html.markdown",
+    "title": "web r-redshift_cluster",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/redshift_cluster.html",
+    "match": "wr redshift cluster"
+},

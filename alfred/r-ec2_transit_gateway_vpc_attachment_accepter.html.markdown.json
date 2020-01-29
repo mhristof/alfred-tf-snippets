@@ -4,3 +4,9 @@
     "arg": "alfred/r-ec2_transit_gateway_vpc_attachment_accepter.html.markdown",
     "match": "r ec2 transit gateway vpc attachment accepter"
 },
+{
+    "uid": "w-alfred/r-ec2_transit_gateway_vpc_attachment_accepter.html.markdown",
+    "title": "web r-ec2_transit_gateway_vpc_attachment_accepter",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ec2_transit_gateway_vpc_attachment_accepter.html",
+    "match": "wr ec2 transit gateway vpc attachment accepter"
+},

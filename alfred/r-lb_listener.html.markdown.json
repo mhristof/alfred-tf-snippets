@@ -4,3 +4,9 @@
     "arg": "alfred/r-lb_listener.html.markdown",
     "match": "r lb listener"
 },
+{
+    "uid": "w-alfred/r-lb_listener.html.markdown",
+    "title": "web r-lb_listener",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lb_listener.html",
+    "match": "wr lb listener"
+},

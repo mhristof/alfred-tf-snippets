@@ -4,3 +4,9 @@
     "arg": "alfred/r-transfer_server.html.markdown",
     "match": "r transfer server"
 },
+{
+    "uid": "w-alfred/r-transfer_server.html.markdown",
+    "title": "web r-transfer_server",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/transfer_server.html",
+    "match": "wr transfer server"
+},

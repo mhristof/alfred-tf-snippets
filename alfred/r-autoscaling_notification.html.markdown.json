@@ -4,3 +4,9 @@
     "arg": "alfred/r-autoscaling_notification.html.markdown",
     "match": "r autoscaling notification"
 },
+{
+    "uid": "w-alfred/r-autoscaling_notification.html.markdown",
+    "title": "web r-autoscaling_notification",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/autoscaling_notification.html",
+    "match": "wr autoscaling notification"
+},

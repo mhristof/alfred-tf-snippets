@@ -4,3 +4,9 @@
     "arg": "alfred/r-api_gateway_vpc_link.html.markdown",
     "match": "r api gateway vpc link"
 },
+{
+    "uid": "w-alfred/r-api_gateway_vpc_link.html.markdown",
+    "title": "web r-api_gateway_vpc_link",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/api_gateway_vpc_link.html",
+    "match": "wr api gateway vpc link"
+},

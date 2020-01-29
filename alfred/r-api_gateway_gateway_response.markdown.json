@@ -4,3 +4,9 @@
     "arg": "alfred/r-api_gateway_gateway_response.markdown",
     "match": "r api gateway gateway response.markdown"
 },
+{
+    "uid": "w-alfred/r-api_gateway_gateway_response.markdown",
+    "title": "web r-api_gateway_gateway_response.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/api_gateway_gateway_response",
+    "match": "wr api gateway gateway response.markdown"
+},

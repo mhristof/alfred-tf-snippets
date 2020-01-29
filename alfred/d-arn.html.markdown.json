@@ -4,3 +4,9 @@
     "arg": "alfred/d-arn.html.markdown",
     "match": "d arn"
 },
+{
+    "uid": "w-alfred/d-arn.html.markdown",
+    "title": "web d-arn",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/arn.html",
+    "match": "wd arn"
+},

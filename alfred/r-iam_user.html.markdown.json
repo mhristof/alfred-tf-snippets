@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_user.html.markdown",
     "match": "r iam user"
 },
+{
+    "uid": "w-alfred/r-iam_user.html.markdown",
+    "title": "web r-iam_user",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_user.html",
+    "match": "wr iam user"
+},

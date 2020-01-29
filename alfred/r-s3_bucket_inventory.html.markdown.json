@@ -4,3 +4,9 @@
     "arg": "alfred/r-s3_bucket_inventory.html.markdown",
     "match": "r s3 bucket inventory"
 },
+{
+    "uid": "w-alfred/r-s3_bucket_inventory.html.markdown",
+    "title": "web r-s3_bucket_inventory",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/s3_bucket_inventory.html",
+    "match": "wr s3 bucket inventory"
+},

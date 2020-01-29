@@ -4,3 +4,9 @@
     "arg": "alfred/r-rds_cluster_endpoint.html.markdown",
     "match": "r rds cluster endpoint"
 },
+{
+    "uid": "w-alfred/r-rds_cluster_endpoint.html.markdown",
+    "title": "web r-rds_cluster_endpoint",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/rds_cluster_endpoint.html",
+    "match": "wr rds cluster endpoint"
+},

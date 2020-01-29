@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_service_linked_role.html.markdown",
     "match": "r iam service linked role"
 },
+{
+    "uid": "w-alfred/r-iam_service_linked_role.html.markdown",
+    "title": "web r-iam_service_linked_role",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_service_linked_role.html",
+    "match": "wr iam service linked role"
+},

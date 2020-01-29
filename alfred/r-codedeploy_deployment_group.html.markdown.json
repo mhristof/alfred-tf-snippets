@@ -4,3 +4,9 @@
     "arg": "alfred/r-codedeploy_deployment_group.html.markdown",
     "match": "r codedeploy deployment group"
 },
+{
+    "uid": "w-alfred/r-codedeploy_deployment_group.html.markdown",
+    "title": "web r-codedeploy_deployment_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/codedeploy_deployment_group.html",
+    "match": "wr codedeploy deployment group"
+},

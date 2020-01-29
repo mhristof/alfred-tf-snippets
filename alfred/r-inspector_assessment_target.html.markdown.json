@@ -4,3 +4,9 @@
     "arg": "alfred/r-inspector_assessment_target.html.markdown",
     "match": "r inspector assessment target"
 },
+{
+    "uid": "w-alfred/r-inspector_assessment_target.html.markdown",
+    "title": "web r-inspector_assessment_target",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/inspector_assessment_target.html",
+    "match": "wr inspector assessment target"
+},

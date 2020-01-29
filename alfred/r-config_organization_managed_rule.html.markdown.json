@@ -4,3 +4,9 @@
     "arg": "alfred/r-config_organization_managed_rule.html.markdown",
     "match": "r config organization managed rule"
 },
+{
+    "uid": "w-alfred/r-config_organization_managed_rule.html.markdown",
+    "title": "web r-config_organization_managed_rule",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/config_organization_managed_rule.html",
+    "match": "wr config organization managed rule"
+},

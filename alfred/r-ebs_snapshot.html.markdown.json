@@ -4,3 +4,9 @@
     "arg": "alfred/r-ebs_snapshot.html.markdown",
     "match": "r ebs snapshot"
 },
+{
+    "uid": "w-alfred/r-ebs_snapshot.html.markdown",
+    "title": "web r-ebs_snapshot",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ebs_snapshot.html",
+    "match": "wr ebs snapshot"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-spot_instance_request.html.markdown",
     "match": "r spot instance request"
 },
+{
+    "uid": "w-alfred/r-spot_instance_request.html.markdown",
+    "title": "web r-spot_instance_request",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/spot_instance_request.html",
+    "match": "wr spot instance request"
+},

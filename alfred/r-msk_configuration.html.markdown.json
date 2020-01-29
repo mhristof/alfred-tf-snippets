@@ -4,3 +4,9 @@
     "arg": "alfred/r-msk_configuration.html.markdown",
     "match": "r msk configuration"
 },
+{
+    "uid": "w-alfred/r-msk_configuration.html.markdown",
+    "title": "web r-msk_configuration",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/msk_configuration.html",
+    "match": "wr msk configuration"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-qldb_ledger.html.markdown",
     "match": "r qldb ledger"
 },
+{
+    "uid": "w-alfred/r-qldb_ledger.html.markdown",
+    "title": "web r-qldb_ledger",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/qldb_ledger.html",
+    "match": "wr qldb ledger"
+},

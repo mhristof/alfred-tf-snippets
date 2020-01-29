@@ -4,3 +4,9 @@
     "arg": "alfred/r-elastic_beanstalk_environment.html.markdown",
     "match": "r elastic beanstalk environment"
 },
+{
+    "uid": "w-alfred/r-elastic_beanstalk_environment.html.markdown",
+    "title": "web r-elastic_beanstalk_environment",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/elastic_beanstalk_environment.html",
+    "match": "wr elastic beanstalk environment"
+},

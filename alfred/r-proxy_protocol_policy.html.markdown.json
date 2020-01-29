@@ -4,3 +4,9 @@
     "arg": "alfred/r-proxy_protocol_policy.html.markdown",
     "match": "r proxy protocol policy"
 },
+{
+    "uid": "w-alfred/r-proxy_protocol_policy.html.markdown",
+    "title": "web r-proxy_protocol_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/proxy_protocol_policy.html",
+    "match": "wr proxy protocol policy"
+},

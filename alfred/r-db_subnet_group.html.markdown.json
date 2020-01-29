@@ -4,3 +4,9 @@
     "arg": "alfred/r-db_subnet_group.html.markdown",
     "match": "r db subnet group"
 },
+{
+    "uid": "w-alfred/r-db_subnet_group.html.markdown",
+    "title": "web r-db_subnet_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/db_subnet_group.html",
+    "match": "wr db subnet group"
+},

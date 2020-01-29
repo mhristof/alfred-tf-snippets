@@ -4,3 +4,9 @@
     "arg": "alfred/r-media_convert_queue.html.markdown",
     "match": "r media convert queue"
 },
+{
+    "uid": "w-alfred/r-media_convert_queue.html.markdown",
+    "title": "web r-media_convert_queue",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/media_convert_queue.html",
+    "match": "wr media convert queue"
+},

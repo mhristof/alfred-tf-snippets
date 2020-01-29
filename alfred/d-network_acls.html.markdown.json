@@ -4,3 +4,9 @@
     "arg": "alfred/d-network_acls.html.markdown",
     "match": "d network acls"
 },
+{
+    "uid": "w-alfred/d-network_acls.html.markdown",
+    "title": "web d-network_acls",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/network_acls.html",
+    "match": "wd network acls"
+},

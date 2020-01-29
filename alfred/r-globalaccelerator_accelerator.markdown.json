@@ -4,3 +4,9 @@
     "arg": "alfred/r-globalaccelerator_accelerator.markdown",
     "match": "r globalaccelerator accelerator.markdown"
 },
+{
+    "uid": "w-alfred/r-globalaccelerator_accelerator.markdown",
+    "title": "web r-globalaccelerator_accelerator.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/globalaccelerator_accelerator",
+    "match": "wr globalaccelerator accelerator.markdown"
+},

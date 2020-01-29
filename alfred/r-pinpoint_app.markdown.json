@@ -4,3 +4,9 @@
     "arg": "alfred/r-pinpoint_app.markdown",
     "match": "r pinpoint app.markdown"
 },
+{
+    "uid": "w-alfred/r-pinpoint_app.markdown",
+    "title": "web r-pinpoint_app.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/pinpoint_app",
+    "match": "wr pinpoint app.markdown"
+},

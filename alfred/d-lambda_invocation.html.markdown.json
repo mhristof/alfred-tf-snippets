@@ -4,3 +4,9 @@
     "arg": "alfred/d-lambda_invocation.html.markdown",
     "match": "d lambda invocation"
 },
+{
+    "uid": "w-alfred/d-lambda_invocation.html.markdown",
+    "title": "web d-lambda_invocation",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/lambda_invocation.html",
+    "match": "wd lambda invocation"
+},

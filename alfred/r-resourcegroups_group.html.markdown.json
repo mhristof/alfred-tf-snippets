@@ -4,3 +4,9 @@
     "arg": "alfred/r-resourcegroups_group.html.markdown",
     "match": "r resourcegroups group"
 },
+{
+    "uid": "w-alfred/r-resourcegroups_group.html.markdown",
+    "title": "web r-resourcegroups_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/resourcegroups_group.html",
+    "match": "wr resourcegroups group"
+},

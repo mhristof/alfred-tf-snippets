@@ -4,3 +4,9 @@
     "arg": "alfred/r-iot_thing_type.html.markdown",
     "match": "r iot thing type"
 },
+{
+    "uid": "w-alfred/r-iot_thing_type.html.markdown",
+    "title": "web r-iot_thing_type",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iot_thing_type.html",
+    "match": "wr iot thing type"
+},

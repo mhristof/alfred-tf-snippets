@@ -4,3 +4,9 @@
     "arg": "alfred/r-redshift_snapshot_copy_grant.html.markdown",
     "match": "r redshift snapshot copy grant"
 },
+{
+    "uid": "w-alfred/r-redshift_snapshot_copy_grant.html.markdown",
+    "title": "web r-redshift_snapshot_copy_grant",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/redshift_snapshot_copy_grant.html",
+    "match": "wr redshift snapshot copy grant"
+},

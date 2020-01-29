@@ -4,3 +4,9 @@
     "arg": "alfred/r-api_gateway_base_path_mapping.html.markdown",
     "match": "r api gateway base path mapping"
 },
+{
+    "uid": "w-alfred/r-api_gateway_base_path_mapping.html.markdown",
+    "title": "web r-api_gateway_base_path_mapping",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/api_gateway_base_path_mapping.html",
+    "match": "wr api gateway base path mapping"
+},

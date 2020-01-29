@@ -4,3 +4,9 @@
     "arg": "alfred/r-ebs_encryption_by_default.html.markdown",
     "match": "r ebs encryption by default"
 },
+{
+    "uid": "w-alfred/r-ebs_encryption_by_default.html.markdown",
+    "title": "web r-ebs_encryption_by_default",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ebs_encryption_by_default.html",
+    "match": "wr ebs encryption by default"
+},

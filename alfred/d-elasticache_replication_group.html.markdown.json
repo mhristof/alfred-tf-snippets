@@ -4,3 +4,9 @@
     "arg": "alfred/d-elasticache_replication_group.html.markdown",
     "match": "d elasticache replication group"
 },
+{
+    "uid": "w-alfred/d-elasticache_replication_group.html.markdown",
+    "title": "web d-elasticache_replication_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/elasticache_replication_group.html",
+    "match": "wd elasticache replication group"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-s3_account_public_access_block.html.markdown",
     "match": "r s3 account public access block"
 },
+{
+    "uid": "w-alfred/r-s3_account_public_access_block.html.markdown",
+    "title": "web r-s3_account_public_access_block",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/s3_account_public_access_block.html",
+    "match": "wr s3 account public access block"
+},

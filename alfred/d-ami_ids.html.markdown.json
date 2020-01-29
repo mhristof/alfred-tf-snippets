@@ -4,3 +4,9 @@
     "arg": "alfred/d-ami_ids.html.markdown",
     "match": "d ami ids"
 },
+{
+    "uid": "w-alfred/d-ami_ids.html.markdown",
+    "title": "web d-ami_ids",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/ami_ids.html",
+    "match": "wd ami ids"
+},

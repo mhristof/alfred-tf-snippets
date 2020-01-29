@@ -4,3 +4,9 @@
     "arg": "alfred/r-autoscaling_schedule.html.markdown",
     "match": "r autoscaling schedule"
 },
+{
+    "uid": "w-alfred/r-autoscaling_schedule.html.markdown",
+    "title": "web r-autoscaling_schedule",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/autoscaling_schedule.html",
+    "match": "wr autoscaling schedule"
+},

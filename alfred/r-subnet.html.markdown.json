@@ -4,3 +4,9 @@
     "arg": "alfred/r-subnet.html.markdown",
     "match": "r subnet"
 },
+{
+    "uid": "w-alfred/r-subnet.html.markdown",
+    "title": "web r-subnet",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/subnet.html",
+    "match": "wr subnet"
+},

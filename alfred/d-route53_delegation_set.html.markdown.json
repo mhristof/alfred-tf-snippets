@@ -4,3 +4,9 @@
     "arg": "alfred/d-route53_delegation_set.html.markdown",
     "match": "d route53 delegation set"
 },
+{
+    "uid": "w-alfred/d-route53_delegation_set.html.markdown",
+    "title": "web d-route53_delegation_set",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/route53_delegation_set.html",
+    "match": "wd route53 delegation set"
+},

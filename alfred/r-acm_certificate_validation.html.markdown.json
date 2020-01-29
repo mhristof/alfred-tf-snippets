@@ -4,3 +4,9 @@
     "arg": "alfred/r-acm_certificate_validation.html.markdown",
     "match": "r acm certificate validation"
 },
+{
+    "uid": "w-alfred/r-acm_certificate_validation.html.markdown",
+    "title": "web r-acm_certificate_validation",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/acm_certificate_validation.html",
+    "match": "wr acm certificate validation"
+},

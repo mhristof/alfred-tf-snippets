@@ -4,3 +4,9 @@
     "arg": "alfred/r-globalaccelerator_endpoint_group.html.markdown",
     "match": "r globalaccelerator endpoint group"
 },
+{
+    "uid": "w-alfred/r-globalaccelerator_endpoint_group.html.markdown",
+    "title": "web r-globalaccelerator_endpoint_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/globalaccelerator_endpoint_group.html",
+    "match": "wr globalaccelerator endpoint group"
+},

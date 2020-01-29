@@ -4,3 +4,9 @@
     "arg": "alfred/r-storagegateway_smb_file_share.html.markdown",
     "match": "r storagegateway smb file share"
 },
+{
+    "uid": "w-alfred/r-storagegateway_smb_file_share.html.markdown",
+    "title": "web r-storagegateway_smb_file_share",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/storagegateway_smb_file_share.html",
+    "match": "wr storagegateway smb file share"
+},

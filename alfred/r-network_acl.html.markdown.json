@@ -4,3 +4,9 @@
     "arg": "alfred/r-network_acl.html.markdown",
     "match": "r network acl"
 },
+{
+    "uid": "w-alfred/r-network_acl.html.markdown",
+    "title": "web r-network_acl",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/network_acl.html",
+    "match": "wr network acl"
+},

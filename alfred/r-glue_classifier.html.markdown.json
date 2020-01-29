@@ -4,3 +4,9 @@
     "arg": "alfred/r-glue_classifier.html.markdown",
     "match": "r glue classifier"
 },
+{
+    "uid": "w-alfred/r-glue_classifier.html.markdown",
+    "title": "web r-glue_classifier",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/glue_classifier.html",
+    "match": "wr glue classifier"
+},

@@ -15,6 +15,8 @@ RESOURCES := $(addprefix alfred/r-,$(notdir $(RESOURCES)))
 JSON := $(addsuffix .json,$(RESOURCES))
 JSON += $(addsuffix .json,$(DATA))
 
+web:
+	echo $(WEB)
 default: alfred $(DATA) $(RESOURCES) $(JSON)
 
 alfred:

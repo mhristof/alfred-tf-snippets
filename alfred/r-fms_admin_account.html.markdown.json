@@ -4,3 +4,9 @@
     "arg": "alfred/r-fms_admin_account.html.markdown",
     "match": "r fms admin account"
 },
+{
+    "uid": "w-alfred/r-fms_admin_account.html.markdown",
+    "title": "web r-fms_admin_account",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/fms_admin_account.html",
+    "match": "wr fms admin account"
+},

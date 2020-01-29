@@ -4,3 +4,9 @@
     "arg": "alfred/d-vpc_endpoint_service.html.markdown",
     "match": "d vpc endpoint service"
 },
+{
+    "uid": "w-alfred/d-vpc_endpoint_service.html.markdown",
+    "title": "web d-vpc_endpoint_service",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/vpc_endpoint_service.html",
+    "match": "wd vpc endpoint service"
+},

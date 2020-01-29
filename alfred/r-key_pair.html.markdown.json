@@ -4,3 +4,9 @@
     "arg": "alfred/r-key_pair.html.markdown",
     "match": "r key pair"
 },
+{
+    "uid": "w-alfred/r-key_pair.html.markdown",
+    "title": "web r-key_pair",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/key_pair.html",
+    "match": "wr key pair"
+},

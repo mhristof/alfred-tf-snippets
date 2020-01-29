@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudtrail.html.markdown",
     "match": "r cloudtrail"
 },
+{
+    "uid": "w-alfred/r-cloudtrail.html.markdown",
+    "title": "web r-cloudtrail",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudtrail.html",
+    "match": "wr cloudtrail"
+},

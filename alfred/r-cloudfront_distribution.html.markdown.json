@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudfront_distribution.html.markdown",
     "match": "r cloudfront distribution"
 },
+{
+    "uid": "w-alfred/r-cloudfront_distribution.html.markdown",
+    "title": "web r-cloudfront_distribution",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudfront_distribution.html",
+    "match": "wr cloudfront distribution"
+},

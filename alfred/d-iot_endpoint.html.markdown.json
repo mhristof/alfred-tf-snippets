@@ -4,3 +4,9 @@
     "arg": "alfred/d-iot_endpoint.html.markdown",
     "match": "d iot endpoint"
 },
+{
+    "uid": "w-alfred/d-iot_endpoint.html.markdown",
+    "title": "web d-iot_endpoint",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/iot_endpoint.html",
+    "match": "wd iot endpoint"
+},

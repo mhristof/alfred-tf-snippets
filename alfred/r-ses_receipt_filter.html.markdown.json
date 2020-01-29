@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_receipt_filter.html.markdown",
     "match": "r ses receipt filter"
 },
+{
+    "uid": "w-alfred/r-ses_receipt_filter.html.markdown",
+    "title": "web r-ses_receipt_filter",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_receipt_filter.html",
+    "match": "wr ses receipt filter"
+},

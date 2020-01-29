@@ -4,3 +4,9 @@
     "arg": "alfred/d-organizations_organizational_units.html.markdown",
     "match": "d organizations organizational units"
 },
+{
+    "uid": "w-alfred/d-organizations_organizational_units.html.markdown",
+    "title": "web d-organizations_organizational_units",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/organizations_organizational_units.html",
+    "match": "wd organizations organizational units"
+},

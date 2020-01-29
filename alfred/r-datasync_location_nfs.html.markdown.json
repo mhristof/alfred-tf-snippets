@@ -4,3 +4,9 @@
     "arg": "alfred/r-datasync_location_nfs.html.markdown",
     "match": "r datasync location nfs"
 },
+{
+    "uid": "w-alfred/r-datasync_location_nfs.html.markdown",
+    "title": "web r-datasync_location_nfs",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/datasync_location_nfs.html",
+    "match": "wr datasync location nfs"
+},

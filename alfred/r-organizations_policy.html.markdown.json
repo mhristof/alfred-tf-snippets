@@ -4,3 +4,9 @@
     "arg": "alfred/r-organizations_policy.html.markdown",
     "match": "r organizations policy"
 },
+{
+    "uid": "w-alfred/r-organizations_policy.html.markdown",
+    "title": "web r-organizations_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/organizations_policy.html",
+    "match": "wr organizations policy"
+},

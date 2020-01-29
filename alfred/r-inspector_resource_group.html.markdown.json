@@ -4,3 +4,9 @@
     "arg": "alfred/r-inspector_resource_group.html.markdown",
     "match": "r inspector resource group"
 },
+{
+    "uid": "w-alfred/r-inspector_resource_group.html.markdown",
+    "title": "web r-inspector_resource_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/inspector_resource_group.html",
+    "match": "wr inspector resource group"
+},

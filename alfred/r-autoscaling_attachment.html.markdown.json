@@ -4,3 +4,9 @@
     "arg": "alfred/r-autoscaling_attachment.html.markdown",
     "match": "r autoscaling attachment"
 },
+{
+    "uid": "w-alfred/r-autoscaling_attachment.html.markdown",
+    "title": "web r-autoscaling_attachment",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/autoscaling_attachment.html",
+    "match": "wr autoscaling attachment"
+},

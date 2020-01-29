@@ -4,3 +4,9 @@
     "arg": "alfred/d-launch_template.html.markdown",
     "match": "d launch template"
 },
+{
+    "uid": "w-alfred/d-launch_template.html.markdown",
+    "title": "web d-launch_template",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/launch_template.html",
+    "match": "wd launch template"
+},

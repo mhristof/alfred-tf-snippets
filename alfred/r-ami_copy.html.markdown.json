@@ -4,3 +4,9 @@
     "arg": "alfred/r-ami_copy.html.markdown",
     "match": "r ami copy"
 },
+{
+    "uid": "w-alfred/r-ami_copy.html.markdown",
+    "title": "web r-ami_copy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ami_copy.html",
+    "match": "wr ami copy"
+},

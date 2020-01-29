@@ -4,3 +4,9 @@
     "arg": "alfred/r-security_group_rule.html.markdown",
     "match": "r security group rule"
 },
+{
+    "uid": "w-alfred/r-security_group_rule.html.markdown",
+    "title": "web r-security_group_rule",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/security_group_rule.html",
+    "match": "wr security group rule"
+},

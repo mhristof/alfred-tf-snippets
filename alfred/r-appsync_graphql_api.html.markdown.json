@@ -4,3 +4,9 @@
     "arg": "alfred/r-appsync_graphql_api.html.markdown",
     "match": "r appsync graphql api"
 },
+{
+    "uid": "w-alfred/r-appsync_graphql_api.html.markdown",
+    "title": "web r-appsync_graphql_api",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appsync_graphql_api.html",
+    "match": "wr appsync graphql api"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-sagemaker_endpoint.html.markdown",
     "match": "r sagemaker endpoint"
 },
+{
+    "uid": "w-alfred/r-sagemaker_endpoint.html.markdown",
+    "title": "web r-sagemaker_endpoint",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sagemaker_endpoint.html",
+    "match": "wr sagemaker endpoint"
+},

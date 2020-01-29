@@ -4,3 +4,9 @@
     "arg": "alfred/r-service_discovery_public_dns_namespace.html.markdown",
     "match": "r service discovery public dns namespace"
 },
+{
+    "uid": "w-alfred/r-service_discovery_public_dns_namespace.html.markdown",
+    "title": "web r-service_discovery_public_dns_namespace",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/service_discovery_public_dns_namespace.html",
+    "match": "wr service discovery public dns namespace"
+},

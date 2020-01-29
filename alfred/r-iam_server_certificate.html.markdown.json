@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_server_certificate.html.markdown",
     "match": "r iam server certificate"
 },
+{
+    "uid": "w-alfred/r-iam_server_certificate.html.markdown",
+    "title": "web r-iam_server_certificate",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_server_certificate.html",
+    "match": "wr iam server certificate"
+},

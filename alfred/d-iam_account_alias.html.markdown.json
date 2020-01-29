@@ -4,3 +4,9 @@
     "arg": "alfred/d-iam_account_alias.html.markdown",
     "match": "d iam account alias"
 },
+{
+    "uid": "w-alfred/d-iam_account_alias.html.markdown",
+    "title": "web d-iam_account_alias",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/iam_account_alias.html",
+    "match": "wd iam account alias"
+},

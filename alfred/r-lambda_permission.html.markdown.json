@@ -4,3 +4,9 @@
     "arg": "alfred/r-lambda_permission.html.markdown",
     "match": "r lambda permission"
 },
+{
+    "uid": "w-alfred/r-lambda_permission.html.markdown",
+    "title": "web r-lambda_permission",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lambda_permission.html",
+    "match": "wr lambda permission"
+},

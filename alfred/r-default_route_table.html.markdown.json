@@ -4,3 +4,9 @@
     "arg": "alfred/r-default_route_table.html.markdown",
     "match": "r default route table"
 },
+{
+    "uid": "w-alfred/r-default_route_table.html.markdown",
+    "title": "web r-default_route_table",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/default_route_table.html",
+    "match": "wr default route table"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-rds_cluster.html.markdown",
     "match": "d rds cluster"
 },
+{
+    "uid": "w-alfred/d-rds_cluster.html.markdown",
+    "title": "web d-rds_cluster",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/rds_cluster.html",
+    "match": "wd rds cluster"
+},

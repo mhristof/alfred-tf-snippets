@@ -4,3 +4,9 @@
     "arg": "alfred/d-canonical_user_id.html.markdown",
     "match": "d canonical user id"
 },
+{
+    "uid": "w-alfred/d-canonical_user_id.html.markdown",
+    "title": "web d-canonical_user_id",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/canonical_user_id.html",
+    "match": "wd canonical user id"
+},

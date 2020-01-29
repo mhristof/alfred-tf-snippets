@@ -4,3 +4,9 @@
     "arg": "alfred/d-kms_alias.html.markdown",
     "match": "d kms alias"
 },
+{
+    "uid": "w-alfred/d-kms_alias.html.markdown",
+    "title": "web d-kms_alias",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/kms_alias.html",
+    "match": "wd kms alias"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-sqs_queue.html.markdown",
     "match": "r sqs queue"
 },
+{
+    "uid": "w-alfred/r-sqs_queue.html.markdown",
+    "title": "web r-sqs_queue",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sqs_queue.html",
+    "match": "wr sqs queue"
+},

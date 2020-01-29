@@ -4,3 +4,9 @@
     "arg": "alfred/d-ec2_transit_gateway_vpc_attachment.html.markdown",
     "match": "d ec2 transit gateway vpc attachment"
 },
+{
+    "uid": "w-alfred/d-ec2_transit_gateway_vpc_attachment.html.markdown",
+    "title": "web d-ec2_transit_gateway_vpc_attachment",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/ec2_transit_gateway_vpc_attachment.html",
+    "match": "wd ec2 transit gateway vpc attachment"
+},

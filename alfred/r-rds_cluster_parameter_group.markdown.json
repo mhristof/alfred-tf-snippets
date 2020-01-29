@@ -4,3 +4,9 @@
     "arg": "alfred/r-rds_cluster_parameter_group.markdown",
     "match": "r rds cluster parameter group.markdown"
 },
+{
+    "uid": "w-alfred/r-rds_cluster_parameter_group.markdown",
+    "title": "web r-rds_cluster_parameter_group.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/rds_cluster_parameter_group",
+    "match": "wr rds cluster parameter group.markdown"
+},

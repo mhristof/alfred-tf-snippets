@@ -4,3 +4,9 @@
     "arg": "alfred/r-datasync_location_efs.html.markdown",
     "match": "r datasync location efs"
 },
+{
+    "uid": "w-alfred/r-datasync_location_efs.html.markdown",
+    "title": "web r-datasync_location_efs",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/datasync_location_efs.html",
+    "match": "wr datasync location efs"
+},

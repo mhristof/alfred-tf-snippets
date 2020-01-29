@@ -4,3 +4,9 @@
     "arg": "alfred/r-network_interface_attachment.html.markdown",
     "match": "r network interface attachment"
 },
+{
+    "uid": "w-alfred/r-network_interface_attachment.html.markdown",
+    "title": "web r-network_interface_attachment",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/network_interface_attachment.html",
+    "match": "wr network interface attachment"
+},
