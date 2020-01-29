@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_event_destination.markdown",
     "match": "r ses event destination.markdown"
 },
+{
+    "uid": "w-alfred/r-ses_event_destination.markdown",
+    "title": "web r-ses_event_destination.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_event_destination",
+    "match": "wr ses event destination.markdown"
+},

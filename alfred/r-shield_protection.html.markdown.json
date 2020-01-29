@@ -4,3 +4,9 @@
     "arg": "alfred/r-shield_protection.html.markdown",
     "match": "r shield protection"
 },
+{
+    "uid": "w-alfred/r-shield_protection.html.markdown",
+    "title": "web r-shield_protection",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/shield_protection.html",
+    "match": "wr shield protection"
+},

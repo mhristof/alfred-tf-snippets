@@ -4,3 +4,9 @@
     "arg": "alfred/r-athena_workgroup.html.markdown",
     "match": "r athena workgroup"
 },
+{
+    "uid": "w-alfred/r-athena_workgroup.html.markdown",
+    "title": "web r-athena_workgroup",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/athena_workgroup.html",
+    "match": "wr athena workgroup"
+},

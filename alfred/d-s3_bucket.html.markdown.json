@@ -4,3 +4,9 @@
     "arg": "alfred/d-s3_bucket.html.markdown",
     "match": "d s3 bucket"
 },
+{
+    "uid": "w-alfred/d-s3_bucket.html.markdown",
+    "title": "web d-s3_bucket",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/s3_bucket.html",
+    "match": "wd s3 bucket"
+},

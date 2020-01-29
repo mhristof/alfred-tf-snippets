@@ -4,3 +4,9 @@
     "arg": "alfred/r-transfer_ssh_key.html.markdown",
     "match": "r transfer ssh key"
 },
+{
+    "uid": "w-alfred/r-transfer_ssh_key.html.markdown",
+    "title": "web r-transfer_ssh_key",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/transfer_ssh_key.html",
+    "match": "wr transfer ssh key"
+},

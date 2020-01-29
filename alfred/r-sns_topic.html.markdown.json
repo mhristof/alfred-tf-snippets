@@ -4,3 +4,9 @@
     "arg": "alfred/r-sns_topic.html.markdown",
     "match": "r sns topic"
 },
+{
+    "uid": "w-alfred/r-sns_topic.html.markdown",
+    "title": "web r-sns_topic",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sns_topic.html",
+    "match": "wr sns topic"
+},

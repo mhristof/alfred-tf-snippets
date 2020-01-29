@@ -4,3 +4,9 @@
     "arg": "alfred/r-backup_vault.html.markdown",
     "match": "r backup vault"
 },
+{
+    "uid": "w-alfred/r-backup_vault.html.markdown",
+    "title": "web r-backup_vault",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/backup_vault.html",
+    "match": "wr backup vault"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-neptune_event_subscription.html.markdown",
     "match": "r neptune event subscription"
 },
+{
+    "uid": "w-alfred/r-neptune_event_subscription.html.markdown",
+    "title": "web r-neptune_event_subscription",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/neptune_event_subscription.html",
+    "match": "wr neptune event subscription"
+},

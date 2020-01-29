@@ -4,3 +4,9 @@
     "arg": "alfred/d-prefix_list.html.markdown",
     "match": "d prefix list"
 },
+{
+    "uid": "w-alfred/d-prefix_list.html.markdown",
+    "title": "web d-prefix_list",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/prefix_list.html",
+    "match": "wd prefix list"
+},

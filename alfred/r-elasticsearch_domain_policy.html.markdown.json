@@ -4,3 +4,9 @@
     "arg": "alfred/r-elasticsearch_domain_policy.html.markdown",
     "match": "r elasticsearch domain policy"
 },
+{
+    "uid": "w-alfred/r-elasticsearch_domain_policy.html.markdown",
+    "title": "web r-elasticsearch_domain_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/elasticsearch_domain_policy.html",
+    "match": "wr elasticsearch domain policy"
+},

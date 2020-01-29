@@ -4,3 +4,9 @@
     "arg": "alfred/d-iam_group.html.markdown",
     "match": "d iam group"
 },
+{
+    "uid": "w-alfred/d-iam_group.html.markdown",
+    "title": "web d-iam_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/iam_group.html",
+    "match": "wd iam group"
+},

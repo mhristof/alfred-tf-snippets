@@ -4,3 +4,9 @@
     "arg": "alfred/r-config_configuration_aggregator.html.markdown",
     "match": "r config configuration aggregator"
 },
+{
+    "uid": "w-alfred/r-config_configuration_aggregator.html.markdown",
+    "title": "web r-config_configuration_aggregator",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/config_configuration_aggregator.html",
+    "match": "wr config configuration aggregator"
+},

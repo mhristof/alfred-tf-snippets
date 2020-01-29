@@ -15,4 +15,17 @@ cat << EOF > "$file.json"
 },
 EOF
 
+directory=$(basename $file | cut -d '-' -f1)
+web_file=$(echo $file | cut -d '-' -f2-)
+
+cat << EOF >> "$file.json"
+{
+    "uid": "w-$file",
+    "title": "web $base",
+    "arg": "https://www.terraform.io/docs/providers/aws/$directory/$(basename $web_file .markdown)",
+    "match": "w$(echo "$base" | tr -s '_-' ' ')"
+},
+EOF
+
+
 exit 0

@@ -4,3 +4,9 @@
     "arg": "alfred/r-ec2_capacity_reservation.markdown",
     "match": "r ec2 capacity reservation.markdown"
 },
+{
+    "uid": "w-alfred/r-ec2_capacity_reservation.markdown",
+    "title": "web r-ec2_capacity_reservation.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ec2_capacity_reservation",
+    "match": "wr ec2 capacity reservation.markdown"
+},

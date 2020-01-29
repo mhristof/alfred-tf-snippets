@@ -4,3 +4,9 @@
     "arg": "alfred/r-gamelift_alias.html.markdown",
     "match": "r gamelift alias"
 },
+{
+    "uid": "w-alfred/r-gamelift_alias.html.markdown",
+    "title": "web r-gamelift_alias",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/gamelift_alias.html",
+    "match": "wr gamelift alias"
+},

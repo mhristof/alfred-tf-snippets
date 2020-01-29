@@ -4,3 +4,9 @@
     "arg": "alfred/r-route53_health_check.html.markdown",
     "match": "r route53 health check"
 },
+{
+    "uid": "w-alfred/r-route53_health_check.html.markdown",
+    "title": "web r-route53_health_check",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/route53_health_check.html",
+    "match": "wr route53 health check"
+},

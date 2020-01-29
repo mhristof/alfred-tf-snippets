@@ -4,3 +4,9 @@
     "arg": "alfred/r-placement_group.html.markdown",
     "match": "r placement group"
 },
+{
+    "uid": "w-alfred/r-placement_group.html.markdown",
+    "title": "web r-placement_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/placement_group.html",
+    "match": "wr placement group"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-kms_key.html.markdown",
     "match": "r kms key"
 },
+{
+    "uid": "w-alfred/r-kms_key.html.markdown",
+    "title": "web r-kms_key",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/kms_key.html",
+    "match": "wr kms key"
+},

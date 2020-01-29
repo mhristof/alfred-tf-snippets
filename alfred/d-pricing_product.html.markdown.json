@@ -4,3 +4,9 @@
     "arg": "alfred/d-pricing_product.html.markdown",
     "match": "d pricing product"
 },
+{
+    "uid": "w-alfred/d-pricing_product.html.markdown",
+    "title": "web d-pricing_product",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/pricing_product.html",
+    "match": "wd pricing product"
+},

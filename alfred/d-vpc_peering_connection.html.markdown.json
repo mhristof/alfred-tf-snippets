@@ -4,3 +4,9 @@
     "arg": "alfred/d-vpc_peering_connection.html.markdown",
     "match": "d vpc peering connection"
 },
+{
+    "uid": "w-alfred/d-vpc_peering_connection.html.markdown",
+    "title": "web d-vpc_peering_connection",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/vpc_peering_connection.html",
+    "match": "wd vpc peering connection"
+},

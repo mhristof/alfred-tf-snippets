@@ -4,3 +4,9 @@
     "arg": "alfred/d-db_snapshot.html.markdown",
     "match": "d db snapshot"
 },
+{
+    "uid": "w-alfred/d-db_snapshot.html.markdown",
+    "title": "web d-db_snapshot",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/db_snapshot.html",
+    "match": "wd db snapshot"
+},

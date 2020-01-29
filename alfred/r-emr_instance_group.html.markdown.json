@@ -4,3 +4,9 @@
     "arg": "alfred/r-emr_instance_group.html.markdown",
     "match": "r emr instance group"
 },
+{
+    "uid": "w-alfred/r-emr_instance_group.html.markdown",
+    "title": "web r-emr_instance_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/emr_instance_group.html",
+    "match": "wr emr instance group"
+},

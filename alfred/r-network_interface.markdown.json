@@ -4,3 +4,9 @@
     "arg": "alfred/r-network_interface.markdown",
     "match": "r network interface.markdown"
 },
+{
+    "uid": "w-alfred/r-network_interface.markdown",
+    "title": "web r-network_interface.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/network_interface",
+    "match": "wr network interface.markdown"
+},

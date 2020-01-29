@@ -4,3 +4,9 @@
     "arg": "alfred/d-lambda_layer_version.html.markdown",
     "match": "d lambda layer version"
 },
+{
+    "uid": "w-alfred/d-lambda_layer_version.html.markdown",
+    "title": "web d-lambda_layer_version",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/lambda_layer_version.html",
+    "match": "wd lambda layer version"
+},

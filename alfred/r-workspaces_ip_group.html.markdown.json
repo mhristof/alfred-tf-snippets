@@ -4,3 +4,9 @@
     "arg": "alfred/r-workspaces_ip_group.html.markdown",
     "match": "r workspaces ip group"
 },
+{
+    "uid": "w-alfred/r-workspaces_ip_group.html.markdown",
+    "title": "web r-workspaces_ip_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/workspaces_ip_group.html",
+    "match": "wr workspaces ip group"
+},

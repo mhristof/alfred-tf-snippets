@@ -4,3 +4,9 @@
     "arg": "alfred/r-vpn_gateway_route_propagation.html.markdown",
     "match": "r vpn gateway route propagation"
 },
+{
+    "uid": "w-alfred/r-vpn_gateway_route_propagation.html.markdown",
+    "title": "web r-vpn_gateway_route_propagation",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/vpn_gateway_route_propagation.html",
+    "match": "wr vpn gateway route propagation"
+},

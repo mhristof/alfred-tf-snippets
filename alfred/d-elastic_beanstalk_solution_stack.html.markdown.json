@@ -4,3 +4,9 @@
     "arg": "alfred/d-elastic_beanstalk_solution_stack.html.markdown",
     "match": "d elastic beanstalk solution stack"
 },
+{
+    "uid": "w-alfred/d-elastic_beanstalk_solution_stack.html.markdown",
+    "title": "web d-elastic_beanstalk_solution_stack",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/elastic_beanstalk_solution_stack.html",
+    "match": "wd elastic beanstalk solution stack"
+},

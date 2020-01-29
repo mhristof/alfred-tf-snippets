@@ -4,3 +4,9 @@
     "arg": "alfred/r-iot_topic_rule.html.markdown",
     "match": "r iot topic rule"
 },
+{
+    "uid": "w-alfred/r-iot_topic_rule.html.markdown",
+    "title": "web r-iot_topic_rule",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iot_topic_rule.html",
+    "match": "wr iot topic rule"
+},

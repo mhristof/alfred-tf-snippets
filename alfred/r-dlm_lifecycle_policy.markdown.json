@@ -4,3 +4,9 @@
     "arg": "alfred/r-dlm_lifecycle_policy.markdown",
     "match": "r dlm lifecycle policy.markdown"
 },
+{
+    "uid": "w-alfred/r-dlm_lifecycle_policy.markdown",
+    "title": "web r-dlm_lifecycle_policy.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dlm_lifecycle_policy",
+    "match": "wr dlm lifecycle policy.markdown"
+},

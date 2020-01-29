@@ -4,3 +4,9 @@
     "arg": "alfred/r-opsworks_mysql_layer.html.markdown",
     "match": "r opsworks mysql layer"
 },
+{
+    "uid": "w-alfred/r-opsworks_mysql_layer.html.markdown",
+    "title": "web r-opsworks_mysql_layer",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/opsworks_mysql_layer.html",
+    "match": "wr opsworks mysql layer"
+},

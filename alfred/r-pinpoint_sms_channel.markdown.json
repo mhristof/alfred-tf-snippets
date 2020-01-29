@@ -4,3 +4,9 @@
     "arg": "alfred/r-pinpoint_sms_channel.markdown",
     "match": "r pinpoint sms channel.markdown"
 },
+{
+    "uid": "w-alfred/r-pinpoint_sms_channel.markdown",
+    "title": "web r-pinpoint_sms_channel.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/pinpoint_sms_channel",
+    "match": "wr pinpoint sms channel.markdown"
+},

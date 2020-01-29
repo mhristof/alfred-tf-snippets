@@ -4,3 +4,9 @@
     "arg": "alfred/r-xray_sampling_rule.html.markdown",
     "match": "r xray sampling rule"
 },
+{
+    "uid": "w-alfred/r-xray_sampling_rule.html.markdown",
+    "title": "web r-xray_sampling_rule",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/xray_sampling_rule.html",
+    "match": "wr xray sampling rule"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-datasync_agent.html.markdown",
     "match": "r datasync agent"
 },
+{
+    "uid": "w-alfred/r-datasync_agent.html.markdown",
+    "title": "web r-datasync_agent",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/datasync_agent.html",
+    "match": "wr datasync agent"
+},

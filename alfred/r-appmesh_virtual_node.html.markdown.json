@@ -4,3 +4,9 @@
     "arg": "alfred/r-appmesh_virtual_node.html.markdown",
     "match": "r appmesh virtual node"
 },
+{
+    "uid": "w-alfred/r-appmesh_virtual_node.html.markdown",
+    "title": "web r-appmesh_virtual_node",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appmesh_virtual_node.html",
+    "match": "wr appmesh virtual node"
+},

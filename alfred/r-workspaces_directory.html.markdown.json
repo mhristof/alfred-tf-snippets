@@ -4,3 +4,9 @@
     "arg": "alfred/r-workspaces_directory.html.markdown",
     "match": "r workspaces directory"
 },
+{
+    "uid": "w-alfred/r-workspaces_directory.html.markdown",
+    "title": "web r-workspaces_directory",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/workspaces_directory.html",
+    "match": "wr workspaces directory"
+},

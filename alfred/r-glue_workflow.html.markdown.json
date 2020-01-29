@@ -4,3 +4,9 @@
     "arg": "alfred/r-glue_workflow.html.markdown",
     "match": "r glue workflow"
 },
+{
+    "uid": "w-alfred/r-glue_workflow.html.markdown",
+    "title": "web r-glue_workflow",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/glue_workflow.html",
+    "match": "wr glue workflow"
+},

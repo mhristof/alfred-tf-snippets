@@ -4,3 +4,9 @@
     "arg": "alfred/r-backup_plan.html.markdown",
     "match": "r backup plan"
 },
+{
+    "uid": "w-alfred/r-backup_plan.html.markdown",
+    "title": "web r-backup_plan",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/backup_plan.html",
+    "match": "wr backup plan"
+},

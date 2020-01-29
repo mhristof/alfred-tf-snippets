@@ -4,3 +4,9 @@
     "arg": "alfred/r-cognito_resource_server.markdown",
     "match": "r cognito resource server.markdown"
 },
+{
+    "uid": "w-alfred/r-cognito_resource_server.markdown",
+    "title": "web r-cognito_resource_server.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cognito_resource_server",
+    "match": "wr cognito resource server.markdown"
+},

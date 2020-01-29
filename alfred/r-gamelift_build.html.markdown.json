@@ -4,3 +4,9 @@
     "arg": "alfred/r-gamelift_build.html.markdown",
     "match": "r gamelift build"
 },
+{
+    "uid": "w-alfred/r-gamelift_build.html.markdown",
+    "title": "web r-gamelift_build",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/gamelift_build.html",
+    "match": "wr gamelift build"
+},

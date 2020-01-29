@@ -4,3 +4,9 @@
     "arg": "alfred/r-glue_catalog_table.html.markdown",
     "match": "r glue catalog table"
 },
+{
+    "uid": "w-alfred/r-glue_catalog_table.html.markdown",
+    "title": "web r-glue_catalog_table",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/glue_catalog_table.html",
+    "match": "wr glue catalog table"
+},

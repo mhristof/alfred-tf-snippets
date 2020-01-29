@@ -4,3 +4,9 @@
     "arg": "alfred/r-cur_report_definition.html.markdown",
     "match": "r cur report definition"
 },
+{
+    "uid": "w-alfred/r-cur_report_definition.html.markdown",
+    "title": "web r-cur_report_definition",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cur_report_definition.html",
+    "match": "wr cur report definition"
+},

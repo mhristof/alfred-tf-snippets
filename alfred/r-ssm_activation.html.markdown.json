@@ -4,3 +4,9 @@
     "arg": "alfred/r-ssm_activation.html.markdown",
     "match": "r ssm activation"
 },
+{
+    "uid": "w-alfred/r-ssm_activation.html.markdown",
+    "title": "web r-ssm_activation",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ssm_activation.html",
+    "match": "wr ssm activation"
+},

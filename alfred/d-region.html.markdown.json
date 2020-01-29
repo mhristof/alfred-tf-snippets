@@ -4,3 +4,9 @@
     "arg": "alfred/d-region.html.markdown",
     "match": "d region"
 },
+{
+    "uid": "w-alfred/d-region.html.markdown",
+    "title": "web d-region",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/region.html",
+    "match": "wd region"
+},

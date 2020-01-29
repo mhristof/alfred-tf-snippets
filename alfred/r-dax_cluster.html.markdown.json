@@ -4,3 +4,9 @@
     "arg": "alfred/r-dax_cluster.html.markdown",
     "match": "r dax cluster"
 },
+{
+    "uid": "w-alfred/r-dax_cluster.html.markdown",
+    "title": "web r-dax_cluster",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dax_cluster.html",
+    "match": "wr dax cluster"
+},

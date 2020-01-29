@@ -4,3 +4,9 @@
     "arg": "alfred/r-db_instance.html.markdown",
     "match": "r db instance"
 },
+{
+    "uid": "w-alfred/r-db_instance.html.markdown",
+    "title": "web r-db_instance",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/db_instance.html",
+    "match": "wr db instance"
+},

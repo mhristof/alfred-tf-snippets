@@ -4,3 +4,9 @@
     "arg": "alfred/r-egress_only_internet_gateway.html.markdown",
     "match": "r egress only internet gateway"
 },
+{
+    "uid": "w-alfred/r-egress_only_internet_gateway.html.markdown",
+    "title": "web r-egress_only_internet_gateway",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/egress_only_internet_gateway.html",
+    "match": "wr egress only internet gateway"
+},

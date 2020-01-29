@@ -4,3 +4,9 @@
     "arg": "alfred/d-efs_mount_target.html.markdown",
     "match": "d efs mount target"
 },
+{
+    "uid": "w-alfred/d-efs_mount_target.html.markdown",
+    "title": "web d-efs_mount_target",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/efs_mount_target.html",
+    "match": "wd efs mount target"
+},

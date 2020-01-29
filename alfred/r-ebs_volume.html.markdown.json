@@ -4,3 +4,9 @@
     "arg": "alfred/r-ebs_volume.html.markdown",
     "match": "r ebs volume"
 },
+{
+    "uid": "w-alfred/r-ebs_volume.html.markdown",
+    "title": "web r-ebs_volume",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ebs_volume.html",
+    "match": "wr ebs volume"
+},

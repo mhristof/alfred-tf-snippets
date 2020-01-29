@@ -4,3 +4,9 @@
     "arg": "alfred/r-dynamodb_table_item.html.markdown",
     "match": "r dynamodb table item"
 },
+{
+    "uid": "w-alfred/r-dynamodb_table_item.html.markdown",
+    "title": "web r-dynamodb_table_item",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dynamodb_table_item.html",
+    "match": "wr dynamodb table item"
+},

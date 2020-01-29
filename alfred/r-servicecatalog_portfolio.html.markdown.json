@@ -4,3 +4,9 @@
     "arg": "alfred/r-servicecatalog_portfolio.html.markdown",
     "match": "r servicecatalog portfolio"
 },
+{
+    "uid": "w-alfred/r-servicecatalog_portfolio.html.markdown",
+    "title": "web r-servicecatalog_portfolio",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/servicecatalog_portfolio.html",
+    "match": "wr servicecatalog portfolio"
+},

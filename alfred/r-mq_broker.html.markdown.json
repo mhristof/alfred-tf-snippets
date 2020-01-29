@@ -4,3 +4,9 @@
     "arg": "alfred/r-mq_broker.html.markdown",
     "match": "r mq broker"
 },
+{
+    "uid": "w-alfred/r-mq_broker.html.markdown",
+    "title": "web r-mq_broker",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/mq_broker.html",
+    "match": "wr mq broker"
+},

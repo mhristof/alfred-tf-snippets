@@ -4,3 +4,9 @@
     "arg": "alfred/r-datasync_task.html.markdown",
     "match": "r datasync task"
 },
+{
+    "uid": "w-alfred/r-datasync_task.html.markdown",
+    "title": "web r-datasync_task",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/datasync_task.html",
+    "match": "wr datasync task"
+},

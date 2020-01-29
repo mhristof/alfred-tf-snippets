@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_template.html.markdown",
     "match": "r ses template"
 },
+{
+    "uid": "w-alfred/r-ses_template.html.markdown",
+    "title": "web r-ses_template",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_template.html",
+    "match": "wr ses template"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudformation_stack_set_instance.html.markdown",
     "match": "r cloudformation stack set instance"
 },
+{
+    "uid": "w-alfred/r-cloudformation_stack_set_instance.html.markdown",
+    "title": "web r-cloudformation_stack_set_instance",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudformation_stack_set_instance.html",
+    "match": "wr cloudformation stack set instance"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudwatch_log_subscription_filter.html.markdown",
     "match": "r cloudwatch log subscription filter"
 },
+{
+    "uid": "w-alfred/r-cloudwatch_log_subscription_filter.html.markdown",
+    "title": "web r-cloudwatch_log_subscription_filter",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudwatch_log_subscription_filter.html",
+    "match": "wr cloudwatch log subscription filter"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-default_vpc.html.markdown",
     "match": "r default vpc"
 },
+{
+    "uid": "w-alfred/r-default_vpc.html.markdown",
+    "title": "web r-default_vpc",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/default_vpc.html",
+    "match": "wr default vpc"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-availability_zones.html.markdown",
     "match": "d availability zones"
 },
+{
+    "uid": "w-alfred/d-availability_zones.html.markdown",
+    "title": "web d-availability_zones",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/availability_zones.html",
+    "match": "wd availability zones"
+},

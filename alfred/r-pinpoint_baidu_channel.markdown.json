@@ -4,3 +4,9 @@
     "arg": "alfred/r-pinpoint_baidu_channel.markdown",
     "match": "r pinpoint baidu channel.markdown"
 },
+{
+    "uid": "w-alfred/r-pinpoint_baidu_channel.markdown",
+    "title": "web r-pinpoint_baidu_channel.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/pinpoint_baidu_channel",
+    "match": "wr pinpoint baidu channel.markdown"
+},

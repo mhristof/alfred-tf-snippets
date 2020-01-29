@@ -4,3 +4,9 @@
     "arg": "alfred/r-quicksight_group.html.markdown",
     "match": "r quicksight group"
 },
+{
+    "uid": "w-alfred/r-quicksight_group.html.markdown",
+    "title": "web r-quicksight_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/quicksight_group.html",
+    "match": "wr quicksight group"
+},

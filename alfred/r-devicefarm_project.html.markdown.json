@@ -4,3 +4,9 @@
     "arg": "alfred/r-devicefarm_project.html.markdown",
     "match": "r devicefarm project"
 },
+{
+    "uid": "w-alfred/r-devicefarm_project.html.markdown",
+    "title": "web r-devicefarm_project",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/devicefarm_project.html",
+    "match": "wr devicefarm project"
+},

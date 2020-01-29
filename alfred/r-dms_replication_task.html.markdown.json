@@ -4,3 +4,9 @@
     "arg": "alfred/r-dms_replication_task.html.markdown",
     "match": "r dms replication task"
 },
+{
+    "uid": "w-alfred/r-dms_replication_task.html.markdown",
+    "title": "web r-dms_replication_task",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dms_replication_task.html",
+    "match": "wr dms replication task"
+},

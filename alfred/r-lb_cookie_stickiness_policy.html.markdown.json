@@ -4,3 +4,9 @@
     "arg": "alfred/r-lb_cookie_stickiness_policy.html.markdown",
     "match": "r lb cookie stickiness policy"
 },
+{
+    "uid": "w-alfred/r-lb_cookie_stickiness_policy.html.markdown",
+    "title": "web r-lb_cookie_stickiness_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lb_cookie_stickiness_policy.html",
+    "match": "wr lb cookie stickiness policy"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-dx_gateway_association.html.markdown",
     "match": "r dx gateway association"
 },
+{
+    "uid": "w-alfred/r-dx_gateway_association.html.markdown",
+    "title": "web r-dx_gateway_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dx_gateway_association.html",
+    "match": "wr dx gateway association"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-worklink_website_certificate_authority_association.html.markdown",
     "match": "r worklink website certificate authority association"
 },
+{
+    "uid": "w-alfred/r-worklink_website_certificate_authority_association.html.markdown",
+    "title": "web r-worklink_website_certificate_authority_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/worklink_website_certificate_authority_association.html",
+    "match": "wr worklink website certificate authority association"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-ecr_lifecycle_policy.html.markdown",
     "match": "r ecr lifecycle policy"
 },
+{
+    "uid": "w-alfred/r-ecr_lifecycle_policy.html.markdown",
+    "title": "web r-ecr_lifecycle_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ecr_lifecycle_policy.html",
+    "match": "wr ecr lifecycle policy"
+},

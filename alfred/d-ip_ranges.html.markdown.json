@@ -4,3 +4,9 @@
     "arg": "alfred/d-ip_ranges.html.markdown",
     "match": "d ip ranges"
 },
+{
+    "uid": "w-alfred/d-ip_ranges.html.markdown",
+    "title": "web d-ip_ranges",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/ip_ranges.html",
+    "match": "wd ip ranges"
+},

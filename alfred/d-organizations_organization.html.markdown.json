@@ -4,3 +4,9 @@
     "arg": "alfred/d-organizations_organization.html.markdown",
     "match": "d organizations organization"
 },
+{
+    "uid": "w-alfred/d-organizations_organization.html.markdown",
+    "title": "web d-organizations_organization",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/organizations_organization.html",
+    "match": "wd organizations organization"
+},

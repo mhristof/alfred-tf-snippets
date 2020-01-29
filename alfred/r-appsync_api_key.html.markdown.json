@@ -4,3 +4,9 @@
     "arg": "alfred/r-appsync_api_key.html.markdown",
     "match": "r appsync api key"
 },
+{
+    "uid": "w-alfred/r-appsync_api_key.html.markdown",
+    "title": "web r-appsync_api_key",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appsync_api_key.html",
+    "match": "wr appsync api key"
+},

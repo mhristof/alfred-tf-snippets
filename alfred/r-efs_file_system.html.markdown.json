@@ -4,3 +4,9 @@
     "arg": "alfred/r-efs_file_system.html.markdown",
     "match": "r efs file system"
 },
+{
+    "uid": "w-alfred/r-efs_file_system.html.markdown",
+    "title": "web r-efs_file_system",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/efs_file_system.html",
+    "match": "wr efs file system"
+},

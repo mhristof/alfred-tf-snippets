@@ -4,3 +4,9 @@
     "arg": "alfred/r-glue_connection.html.markdown",
     "match": "r glue connection"
 },
+{
+    "uid": "w-alfred/r-glue_connection.html.markdown",
+    "title": "web r-glue_connection",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/glue_connection.html",
+    "match": "wr glue connection"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-codepipeline_webhook.markdown",
     "match": "r codepipeline webhook.markdown"
 },
+{
+    "uid": "w-alfred/r-codepipeline_webhook.markdown",
+    "title": "web r-codepipeline_webhook.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/codepipeline_webhook",
+    "match": "wr codepipeline webhook.markdown"
+},

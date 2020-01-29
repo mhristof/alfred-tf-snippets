@@ -4,3 +4,9 @@
     "arg": "alfred/r-neptune_cluster_snapshot.html.markdown",
     "match": "r neptune cluster snapshot"
 },
+{
+    "uid": "w-alfred/r-neptune_cluster_snapshot.html.markdown",
+    "title": "web r-neptune_cluster_snapshot",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/neptune_cluster_snapshot.html",
+    "match": "wr neptune cluster snapshot"
+},

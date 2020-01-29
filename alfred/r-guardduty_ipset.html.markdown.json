@@ -4,3 +4,9 @@
     "arg": "alfred/r-guardduty_ipset.html.markdown",
     "match": "r guardduty ipset"
 },
+{
+    "uid": "w-alfred/r-guardduty_ipset.html.markdown",
+    "title": "web r-guardduty_ipset",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/guardduty_ipset.html",
+    "match": "wr guardduty ipset"
+},

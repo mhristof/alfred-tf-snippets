@@ -4,3 +4,9 @@
     "arg": "alfred/r-gamelift_game_session_queue.html.markdown",
     "match": "r gamelift game session queue"
 },
+{
+    "uid": "w-alfred/r-gamelift_game_session_queue.html.markdown",
+    "title": "web r-gamelift_game_session_queue",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/gamelift_game_session_queue.html",
+    "match": "wr gamelift game session queue"
+},

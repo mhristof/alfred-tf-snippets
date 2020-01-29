@@ -4,3 +4,9 @@
     "arg": "alfred/r-sfn_state_machine.html.markdown",
     "match": "r sfn state machine"
 },
+{
+    "uid": "w-alfred/r-sfn_state_machine.html.markdown",
+    "title": "web r-sfn_state_machine",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sfn_state_machine.html",
+    "match": "wr sfn state machine"
+},

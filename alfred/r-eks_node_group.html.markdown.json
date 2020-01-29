@@ -4,3 +4,9 @@
     "arg": "alfred/r-eks_node_group.html.markdown",
     "match": "r eks node group"
 },
+{
+    "uid": "w-alfred/r-eks_node_group.html.markdown",
+    "title": "web r-eks_node_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/eks_node_group.html",
+    "match": "wr eks node group"
+},

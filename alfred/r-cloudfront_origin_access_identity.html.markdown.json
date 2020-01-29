@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudfront_origin_access_identity.html.markdown",
     "match": "r cloudfront origin access identity"
 },
+{
+    "uid": "w-alfred/r-cloudfront_origin_access_identity.html.markdown",
+    "title": "web r-cloudfront_origin_access_identity",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudfront_origin_access_identity.html",
+    "match": "wr cloudfront origin access identity"
+},

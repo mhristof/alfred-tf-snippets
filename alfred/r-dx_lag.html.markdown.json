@@ -4,3 +4,9 @@
     "arg": "alfred/r-dx_lag.html.markdown",
     "match": "r dx lag"
 },
+{
+    "uid": "w-alfred/r-dx_lag.html.markdown",
+    "title": "web r-dx_lag",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dx_lag.html",
+    "match": "wr dx lag"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-opsworks_user_profile.html.markdown",
     "match": "r opsworks user profile"
 },
+{
+    "uid": "w-alfred/r-opsworks_user_profile.html.markdown",
+    "title": "web r-opsworks_user_profile",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/opsworks_user_profile.html",
+    "match": "wr opsworks user profile"
+},

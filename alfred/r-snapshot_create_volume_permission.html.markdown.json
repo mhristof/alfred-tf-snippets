@@ -4,3 +4,9 @@
     "arg": "alfred/r-snapshot_create_volume_permission.html.markdown",
     "match": "r snapshot create volume permission"
 },
+{
+    "uid": "w-alfred/r-snapshot_create_volume_permission.html.markdown",
+    "title": "web r-snapshot_create_volume_permission",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/snapshot_create_volume_permission.html",
+    "match": "wr snapshot create volume permission"
+},

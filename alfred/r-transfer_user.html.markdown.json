@@ -4,3 +4,9 @@
     "arg": "alfred/r-transfer_user.html.markdown",
     "match": "r transfer user"
 },
+{
+    "uid": "w-alfred/r-transfer_user.html.markdown",
+    "title": "web r-transfer_user",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/transfer_user.html",
+    "match": "wr transfer user"
+},

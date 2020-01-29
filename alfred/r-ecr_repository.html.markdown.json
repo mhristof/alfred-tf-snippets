@@ -4,3 +4,9 @@
     "arg": "alfred/r-ecr_repository.html.markdown",
     "match": "r ecr repository"
 },
+{
+    "uid": "w-alfred/r-ecr_repository.html.markdown",
+    "title": "web r-ecr_repository",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ecr_repository.html",
+    "match": "wr ecr repository"
+},

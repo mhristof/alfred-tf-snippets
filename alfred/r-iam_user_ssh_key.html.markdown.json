@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_user_ssh_key.html.markdown",
     "match": "r iam user ssh key"
 },
+{
+    "uid": "w-alfred/r-iam_user_ssh_key.html.markdown",
+    "title": "web r-iam_user_ssh_key",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_user_ssh_key.html",
+    "match": "wr iam user ssh key"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-ssm_resource_data_sync.html.markdown",
     "match": "r ssm resource data sync"
 },
+{
+    "uid": "w-alfred/r-ssm_resource_data_sync.html.markdown",
+    "title": "web r-ssm_resource_data_sync",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ssm_resource_data_sync.html",
+    "match": "wr ssm resource data sync"
+},

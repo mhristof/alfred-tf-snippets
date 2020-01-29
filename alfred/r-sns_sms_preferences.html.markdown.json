@@ -4,3 +4,9 @@
     "arg": "alfred/r-sns_sms_preferences.html.markdown",
     "match": "r sns sms preferences"
 },
+{
+    "uid": "w-alfred/r-sns_sms_preferences.html.markdown",
+    "title": "web r-sns_sms_preferences",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sns_sms_preferences.html",
+    "match": "wr sns sms preferences"
+},

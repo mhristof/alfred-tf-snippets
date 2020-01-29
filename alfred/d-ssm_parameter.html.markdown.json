@@ -4,3 +4,9 @@
     "arg": "alfred/d-ssm_parameter.html.markdown",
     "match": "d ssm parameter"
 },
+{
+    "uid": "w-alfred/d-ssm_parameter.html.markdown",
+    "title": "web d-ssm_parameter",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/ssm_parameter.html",
+    "match": "wd ssm parameter"
+},

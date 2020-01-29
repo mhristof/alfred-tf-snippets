@@ -4,3 +4,9 @@
     "arg": "alfred/r-storagegateway_upload_buffer.html.markdown",
     "match": "r storagegateway upload buffer"
 },
+{
+    "uid": "w-alfred/r-storagegateway_upload_buffer.html.markdown",
+    "title": "web r-storagegateway_upload_buffer",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/storagegateway_upload_buffer.html",
+    "match": "wr storagegateway upload buffer"
+},

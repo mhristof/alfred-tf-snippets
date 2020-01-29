@@ -4,3 +4,9 @@
     "arg": "alfred/r-codecommit_trigger.html.markdown",
     "match": "r codecommit trigger"
 },
+{
+    "uid": "w-alfred/r-codecommit_trigger.html.markdown",
+    "title": "web r-codecommit_trigger",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/codecommit_trigger.html",
+    "match": "wr codecommit trigger"
+},

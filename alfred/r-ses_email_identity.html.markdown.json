@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_email_identity.html.markdown",
     "match": "r ses email identity"
 },
+{
+    "uid": "w-alfred/r-ses_email_identity.html.markdown",
+    "title": "web r-ses_email_identity",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_email_identity.html",
+    "match": "wr ses email identity"
+},

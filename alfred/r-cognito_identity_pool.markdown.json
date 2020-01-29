@@ -4,3 +4,9 @@
     "arg": "alfred/r-cognito_identity_pool.markdown",
     "match": "r cognito identity pool.markdown"
 },
+{
+    "uid": "w-alfred/r-cognito_identity_pool.markdown",
+    "title": "web r-cognito_identity_pool.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cognito_identity_pool",
+    "match": "wr cognito identity pool.markdown"
+},

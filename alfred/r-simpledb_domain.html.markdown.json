@@ -4,3 +4,9 @@
     "arg": "alfred/r-simpledb_domain.html.markdown",
     "match": "r simpledb domain"
 },
+{
+    "uid": "w-alfred/r-simpledb_domain.html.markdown",
+    "title": "web r-simpledb_domain",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/simpledb_domain.html",
+    "match": "wr simpledb domain"
+},

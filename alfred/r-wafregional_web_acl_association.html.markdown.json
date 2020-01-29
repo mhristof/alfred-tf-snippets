@@ -4,3 +4,9 @@
     "arg": "alfred/r-wafregional_web_acl_association.html.markdown",
     "match": "r wafregional web acl association"
 },
+{
+    "uid": "w-alfred/r-wafregional_web_acl_association.html.markdown",
+    "title": "web r-wafregional_web_acl_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/wafregional_web_acl_association.html",
+    "match": "wr wafregional web acl association"
+},

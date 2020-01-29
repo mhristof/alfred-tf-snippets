@@ -4,3 +4,9 @@
     "arg": "alfred/r-sfn_activity.html.markdown",
     "match": "r sfn activity"
 },
+{
+    "uid": "w-alfred/r-sfn_activity.html.markdown",
+    "title": "web r-sfn_activity",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sfn_activity.html",
+    "match": "wr sfn activity"
+},

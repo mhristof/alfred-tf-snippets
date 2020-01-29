@@ -4,3 +4,9 @@
     "arg": "alfred/r-api_gateway_authorizer.html.markdown",
     "match": "r api gateway authorizer"
 },
+{
+    "uid": "w-alfred/r-api_gateway_authorizer.html.markdown",
+    "title": "web r-api_gateway_authorizer",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/api_gateway_authorizer.html",
+    "match": "wr api gateway authorizer"
+},

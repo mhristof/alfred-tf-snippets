@@ -4,3 +4,9 @@
     "arg": "alfred/r-glue_trigger.html.markdown",
     "match": "r glue trigger"
 },
+{
+    "uid": "w-alfred/r-glue_trigger.html.markdown",
+    "title": "web r-glue_trigger",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/glue_trigger.html",
+    "match": "wr glue trigger"
+},

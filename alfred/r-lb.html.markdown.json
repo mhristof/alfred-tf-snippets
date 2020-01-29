@@ -4,3 +4,9 @@
     "arg": "alfred/r-lb.html.markdown",
     "match": "r lb"
 },
+{
+    "uid": "w-alfred/r-lb.html.markdown",
+    "title": "web r-lb",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lb.html",
+    "match": "wr lb"
+},

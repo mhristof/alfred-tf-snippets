@@ -4,3 +4,9 @@
     "arg": "alfred/d-partition.html.markdown",
     "match": "d partition"
 },
+{
+    "uid": "w-alfred/d-partition.html.markdown",
+    "title": "web d-partition",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/partition.html",
+    "match": "wd partition"
+},

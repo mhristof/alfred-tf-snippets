@@ -4,3 +4,9 @@
     "arg": "alfred/r-db_instance_role_association.html.markdown",
     "match": "r db instance role association"
 },
+{
+    "uid": "w-alfred/r-db_instance_role_association.html.markdown",
+    "title": "web r-db_instance_role_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/db_instance_role_association.html",
+    "match": "wr db instance role association"
+},

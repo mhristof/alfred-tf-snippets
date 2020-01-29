@@ -4,3 +4,9 @@
     "arg": "alfred/r-redshift_event_subscription.html.markdown",
     "match": "r redshift event subscription"
 },
+{
+    "uid": "w-alfred/r-redshift_event_subscription.html.markdown",
+    "title": "web r-redshift_event_subscription",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/redshift_event_subscription.html",
+    "match": "wr redshift event subscription"
+},

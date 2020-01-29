@@ -4,3 +4,9 @@
     "arg": "alfred/r-dx_private_virtual_interface.html.markdown",
     "match": "r dx private virtual interface"
 },
+{
+    "uid": "w-alfred/r-dx_private_virtual_interface.html.markdown",
+    "title": "web r-dx_private_virtual_interface",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dx_private_virtual_interface.html",
+    "match": "wr dx private virtual interface"
+},

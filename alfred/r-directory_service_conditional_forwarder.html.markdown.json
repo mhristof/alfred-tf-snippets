@@ -4,3 +4,9 @@
     "arg": "alfred/r-directory_service_conditional_forwarder.html.markdown",
     "match": "r directory service conditional forwarder"
 },
+{
+    "uid": "w-alfred/r-directory_service_conditional_forwarder.html.markdown",
+    "title": "web r-directory_service_conditional_forwarder",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/directory_service_conditional_forwarder.html",
+    "match": "wr directory service conditional forwarder"
+},

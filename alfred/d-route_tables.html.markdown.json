@@ -4,3 +4,9 @@
     "arg": "alfred/d-route_tables.html.markdown",
     "match": "d route tables"
 },
+{
+    "uid": "w-alfred/d-route_tables.html.markdown",
+    "title": "web d-route_tables",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/route_tables.html",
+    "match": "wd route tables"
+},

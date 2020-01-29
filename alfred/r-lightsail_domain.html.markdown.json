@@ -4,3 +4,9 @@
     "arg": "alfred/r-lightsail_domain.html.markdown",
     "match": "r lightsail domain"
 },
+{
+    "uid": "w-alfred/r-lightsail_domain.html.markdown",
+    "title": "web r-lightsail_domain",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lightsail_domain.html",
+    "match": "wr lightsail domain"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-api_gateway_vpc_link.html.markdown",
     "match": "d api gateway vpc link"
 },
+{
+    "uid": "w-alfred/d-api_gateway_vpc_link.html.markdown",
+    "title": "web d-api_gateway_vpc_link",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/api_gateway_vpc_link.html",
+    "match": "wd api gateway vpc link"
+},

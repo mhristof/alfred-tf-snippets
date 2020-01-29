@@ -4,3 +4,9 @@
     "arg": "alfred/r-codebuild_webhook.html.markdown",
     "match": "r codebuild webhook"
 },
+{
+    "uid": "w-alfred/r-codebuild_webhook.html.markdown",
+    "title": "web r-codebuild_webhook",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/codebuild_webhook.html",
+    "match": "wr codebuild webhook"
+},

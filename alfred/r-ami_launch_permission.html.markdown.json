@@ -4,3 +4,9 @@
     "arg": "alfred/r-ami_launch_permission.html.markdown",
     "match": "r ami launch permission"
 },
+{
+    "uid": "w-alfred/r-ami_launch_permission.html.markdown",
+    "title": "web r-ami_launch_permission",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ami_launch_permission.html",
+    "match": "wr ami launch permission"
+},

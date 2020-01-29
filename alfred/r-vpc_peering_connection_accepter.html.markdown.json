@@ -4,3 +4,9 @@
     "arg": "alfred/r-vpc_peering_connection_accepter.html.markdown",
     "match": "r vpc peering connection accepter"
 },
+{
+    "uid": "w-alfred/r-vpc_peering_connection_accepter.html.markdown",
+    "title": "web r-vpc_peering_connection_accepter",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/vpc_peering_connection_accepter.html",
+    "match": "wr vpc peering connection accepter"
+},

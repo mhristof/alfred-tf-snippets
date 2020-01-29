@@ -4,3 +4,9 @@
     "arg": "alfred/r-autoscaling_lifecycle_hook.html.markdown",
     "match": "r autoscaling lifecycle hook"
 },
+{
+    "uid": "w-alfred/r-autoscaling_lifecycle_hook.html.markdown",
+    "title": "web r-autoscaling_lifecycle_hook",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/autoscaling_lifecycle_hook.html",
+    "match": "wr autoscaling lifecycle hook"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-route53_zone_association.html.markdown",
     "match": "r route53 zone association"
 },
+{
+    "uid": "w-alfred/r-route53_zone_association.html.markdown",
+    "title": "web r-route53_zone_association",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/route53_zone_association.html",
+    "match": "wr route53 zone association"
+},

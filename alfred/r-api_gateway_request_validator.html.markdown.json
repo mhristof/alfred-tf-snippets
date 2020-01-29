@@ -4,3 +4,9 @@
     "arg": "alfred/r-api_gateway_request_validator.html.markdown",
     "match": "r api gateway request validator"
 },
+{
+    "uid": "w-alfred/r-api_gateway_request_validator.html.markdown",
+    "title": "web r-api_gateway_request_validator",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/api_gateway_request_validator.html",
+    "match": "wr api gateway request validator"
+},

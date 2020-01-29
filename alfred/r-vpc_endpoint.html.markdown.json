@@ -4,3 +4,9 @@
     "arg": "alfred/r-vpc_endpoint.html.markdown",
     "match": "r vpc endpoint"
 },
+{
+    "uid": "w-alfred/r-vpc_endpoint.html.markdown",
+    "title": "web r-vpc_endpoint",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/vpc_endpoint.html",
+    "match": "wr vpc endpoint"
+},

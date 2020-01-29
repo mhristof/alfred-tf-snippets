@@ -4,3 +4,9 @@
     "arg": "alfred/d-cloudformation_export.html.markdown",
     "match": "d cloudformation export"
 },
+{
+    "uid": "w-alfred/d-cloudformation_export.html.markdown",
+    "title": "web d-cloudformation_export",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/cloudformation_export.html",
+    "match": "wd cloudformation export"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-licensemanager_association.markdown",
     "match": "r licensemanager association.markdown"
 },
+{
+    "uid": "w-alfred/r-licensemanager_association.markdown",
+    "title": "web r-licensemanager_association.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/licensemanager_association",
+    "match": "wr licensemanager association.markdown"
+},

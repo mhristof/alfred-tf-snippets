@@ -4,3 +4,9 @@
     "arg": "alfred/d-workspaces_bundle.html.markdown",
     "match": "d workspaces bundle"
 },
+{
+    "uid": "w-alfred/d-workspaces_bundle.html.markdown",
+    "title": "web d-workspaces_bundle",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/workspaces_bundle.html",
+    "match": "wd workspaces bundle"
+},

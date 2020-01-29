@@ -4,3 +4,9 @@
     "arg": "alfred/r-ami.html.markdown",
     "match": "r ami"
 },
+{
+    "uid": "w-alfred/r-ami.html.markdown",
+    "title": "web r-ami",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ami.html",
+    "match": "wr ami"
+},

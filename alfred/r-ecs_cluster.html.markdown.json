@@ -4,3 +4,9 @@
     "arg": "alfred/r-ecs_cluster.html.markdown",
     "match": "r ecs cluster"
 },
+{
+    "uid": "w-alfred/r-ecs_cluster.html.markdown",
+    "title": "web r-ecs_cluster",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ecs_cluster.html",
+    "match": "wr ecs cluster"
+},

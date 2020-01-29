@@ -4,3 +4,9 @@
     "arg": "alfred/r-gamelift_fleet.html.markdown",
     "match": "r gamelift fleet"
 },
+{
+    "uid": "w-alfred/r-gamelift_fleet.html.markdown",
+    "title": "web r-gamelift_fleet",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/gamelift_fleet.html",
+    "match": "wr gamelift fleet"
+},

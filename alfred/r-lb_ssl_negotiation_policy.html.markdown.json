@@ -4,3 +4,9 @@
     "arg": "alfred/r-lb_ssl_negotiation_policy.html.markdown",
     "match": "r lb ssl negotiation policy"
 },
+{
+    "uid": "w-alfred/r-lb_ssl_negotiation_policy.html.markdown",
+    "title": "web r-lb_ssl_negotiation_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lb_ssl_negotiation_policy.html",
+    "match": "wr lb ssl negotiation policy"
+},

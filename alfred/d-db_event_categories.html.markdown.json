@@ -4,3 +4,9 @@
     "arg": "alfred/d-db_event_categories.html.markdown",
     "match": "d db event categories"
 },
+{
+    "uid": "w-alfred/d-db_event_categories.html.markdown",
+    "title": "web d-db_event_categories",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/db_event_categories.html",
+    "match": "wd db event categories"
+},

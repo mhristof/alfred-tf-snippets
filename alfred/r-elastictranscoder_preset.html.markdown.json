@@ -4,3 +4,9 @@
     "arg": "alfred/r-elastictranscoder_preset.html.markdown",
     "match": "r elastictranscoder preset"
 },
+{
+    "uid": "w-alfred/r-elastictranscoder_preset.html.markdown",
+    "title": "web r-elastictranscoder_preset",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/elastictranscoder_preset.html",
+    "match": "wr elastictranscoder preset"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-ssm_maintenance_window_target.html.markdown",
     "match": "r ssm maintenance window target"
 },
+{
+    "uid": "w-alfred/r-ssm_maintenance_window_target.html.markdown",
+    "title": "web r-ssm_maintenance_window_target",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ssm_maintenance_window_target.html",
+    "match": "wr ssm maintenance window target"
+},

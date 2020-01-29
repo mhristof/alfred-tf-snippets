@@ -4,3 +4,9 @@
     "arg": "alfred/r-appautoscaling_target.html.markdown",
     "match": "r appautoscaling target"
 },
+{
+    "uid": "w-alfred/r-appautoscaling_target.html.markdown",
+    "title": "web r-appautoscaling_target",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appautoscaling_target.html",
+    "match": "wr appautoscaling target"
+},

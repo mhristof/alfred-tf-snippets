@@ -4,3 +4,9 @@
     "arg": "alfred/r-ecr_repository_policy.html.markdown",
     "match": "r ecr repository policy"
 },
+{
+    "uid": "w-alfred/r-ecr_repository_policy.html.markdown",
+    "title": "web r-ecr_repository_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ecr_repository_policy.html",
+    "match": "wr ecr repository policy"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-api_gateway_api_key.html.markdown",
     "match": "d api gateway api key"
 },
+{
+    "uid": "w-alfred/d-api_gateway_api_key.html.markdown",
+    "title": "web d-api_gateway_api_key",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/api_gateway_api_key.html",
+    "match": "wd api gateway api key"
+},

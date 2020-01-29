@@ -4,3 +4,9 @@
     "arg": "alfred/r-api_gateway_usage_plan_key.html.markdown",
     "match": "r api gateway usage plan key"
 },
+{
+    "uid": "w-alfred/r-api_gateway_usage_plan_key.html.markdown",
+    "title": "web r-api_gateway_usage_plan_key",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/api_gateway_usage_plan_key.html",
+    "match": "wr api gateway usage plan key"
+},

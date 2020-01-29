@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudwatch_log_destination_policy.html.markdown",
     "match": "r cloudwatch log destination policy"
 },
+{
+    "uid": "w-alfred/r-cloudwatch_log_destination_policy.html.markdown",
+    "title": "web r-cloudwatch_log_destination_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudwatch_log_destination_policy.html",
+    "match": "wr cloudwatch log destination policy"
+},

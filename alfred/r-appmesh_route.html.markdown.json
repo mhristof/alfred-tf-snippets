@@ -4,3 +4,9 @@
     "arg": "alfred/r-appmesh_route.html.markdown",
     "match": "r appmesh route"
 },
+{
+    "uid": "w-alfred/r-appmesh_route.html.markdown",
+    "title": "web r-appmesh_route",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appmesh_route.html",
+    "match": "wr appmesh route"
+},

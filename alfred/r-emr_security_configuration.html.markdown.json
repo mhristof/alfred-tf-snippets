@@ -4,3 +4,9 @@
     "arg": "alfred/r-emr_security_configuration.html.markdown",
     "match": "r emr security configuration"
 },
+{
+    "uid": "w-alfred/r-emr_security_configuration.html.markdown",
+    "title": "web r-emr_security_configuration",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/emr_security_configuration.html",
+    "match": "wr emr security configuration"
+},

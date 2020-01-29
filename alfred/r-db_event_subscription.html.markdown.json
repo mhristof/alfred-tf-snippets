@@ -4,3 +4,9 @@
     "arg": "alfred/r-db_event_subscription.html.markdown",
     "match": "r db event subscription"
 },
+{
+    "uid": "w-alfred/r-db_event_subscription.html.markdown",
+    "title": "web r-db_event_subscription",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/db_event_subscription.html",
+    "match": "wr db event subscription"
+},

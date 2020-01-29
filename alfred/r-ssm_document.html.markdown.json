@@ -4,3 +4,9 @@
     "arg": "alfred/r-ssm_document.html.markdown",
     "match": "r ssm document"
 },
+{
+    "uid": "w-alfred/r-ssm_document.html.markdown",
+    "title": "web r-ssm_document",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ssm_document.html",
+    "match": "wr ssm document"
+},

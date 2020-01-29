@@ -4,3 +4,9 @@
     "arg": "alfred/r-wafregional_regex_pattern_set.html.markdown",
     "match": "r wafregional regex pattern set"
 },
+{
+    "uid": "w-alfred/r-wafregional_regex_pattern_set.html.markdown",
+    "title": "web r-wafregional_regex_pattern_set",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/wafregional_regex_pattern_set.html",
+    "match": "wr wafregional regex pattern set"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-appsync_function.html.markdown",
     "match": "r appsync function"
 },
+{
+    "uid": "w-alfred/r-appsync_function.html.markdown",
+    "title": "web r-appsync_function",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/appsync_function.html",
+    "match": "wr appsync function"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-sns_platform_application.html.markdown",
     "match": "r sns platform application"
 },
+{
+    "uid": "w-alfred/r-sns_platform_application.html.markdown",
+    "title": "web r-sns_platform_application",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sns_platform_application.html",
+    "match": "wr sns platform application"
+},

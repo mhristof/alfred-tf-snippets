@@ -4,3 +4,9 @@
     "arg": "alfred/r-opsworks_permission.html.markdown",
     "match": "r opsworks permission"
 },
+{
+    "uid": "w-alfred/r-opsworks_permission.html.markdown",
+    "title": "web r-opsworks_permission",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/opsworks_permission.html",
+    "match": "wr opsworks permission"
+},

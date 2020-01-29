@@ -4,3 +4,9 @@
     "arg": "alfred/r-glue_crawler.html.markdown",
     "match": "r glue crawler"
 },
+{
+    "uid": "w-alfred/r-glue_crawler.html.markdown",
+    "title": "web r-glue_crawler",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/glue_crawler.html",
+    "match": "wr glue crawler"
+},

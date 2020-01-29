@@ -4,3 +4,9 @@
     "arg": "alfred/r-dms_replication_subnet_group.html.markdown",
     "match": "r dms replication subnet group"
 },
+{
+    "uid": "w-alfred/r-dms_replication_subnet_group.html.markdown",
+    "title": "web r-dms_replication_subnet_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dms_replication_subnet_group.html",
+    "match": "wr dms replication subnet group"
+},

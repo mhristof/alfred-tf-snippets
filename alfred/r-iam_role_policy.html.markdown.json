@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_role_policy.html.markdown",
     "match": "r iam role policy"
 },
+{
+    "uid": "w-alfred/r-iam_role_policy.html.markdown",
+    "title": "web r-iam_role_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_role_policy.html",
+    "match": "wr iam role policy"
+},

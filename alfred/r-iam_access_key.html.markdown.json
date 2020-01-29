@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_access_key.html.markdown",
     "match": "r iam access key"
 },
+{
+    "uid": "w-alfred/r-iam_access_key.html.markdown",
+    "title": "web r-iam_access_key",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_access_key.html",
+    "match": "wr iam access key"
+},

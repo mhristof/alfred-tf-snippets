@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudhsm_v2_hsm.html.markdown",
     "match": "r cloudhsm v2 hsm"
 },
+{
+    "uid": "w-alfred/r-cloudhsm_v2_hsm.html.markdown",
+    "title": "web r-cloudhsm_v2_hsm",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudhsm_v2_hsm.html",
+    "match": "wr cloudhsm v2 hsm"
+},

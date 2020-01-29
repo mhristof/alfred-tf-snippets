@@ -4,3 +4,9 @@
     "arg": "alfred/r-sagemaker_notebook_instance_lifecycle_configuration.html.markdown",
     "match": "r sagemaker notebook instance lifecycle configuration"
 },
+{
+    "uid": "w-alfred/r-sagemaker_notebook_instance_lifecycle_configuration.html.markdown",
+    "title": "web r-sagemaker_notebook_instance_lifecycle_configuration",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sagemaker_notebook_instance_lifecycle_configuration.html",
+    "match": "wr sagemaker notebook instance lifecycle configuration"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-ecs_capacity_provider.html.markdown",
     "match": "r ecs capacity provider"
 },
+{
+    "uid": "w-alfred/r-ecs_capacity_provider.html.markdown",
+    "title": "web r-ecs_capacity_provider",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ecs_capacity_provider.html",
+    "match": "wr ecs capacity provider"
+},

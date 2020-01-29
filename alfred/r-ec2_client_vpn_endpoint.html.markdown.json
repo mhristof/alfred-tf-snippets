@@ -4,3 +4,9 @@
     "arg": "alfred/r-ec2_client_vpn_endpoint.html.markdown",
     "match": "r ec2 client vpn endpoint"
 },
+{
+    "uid": "w-alfred/r-ec2_client_vpn_endpoint.html.markdown",
+    "title": "web r-ec2_client_vpn_endpoint",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ec2_client_vpn_endpoint.html",
+    "match": "wr ec2 client vpn endpoint"
+},

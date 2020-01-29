@@ -4,3 +4,9 @@
     "arg": "alfred/r-docdb_cluster_parameter_group.html.markdown",
     "match": "r docdb cluster parameter group"
 },
+{
+    "uid": "w-alfred/r-docdb_cluster_parameter_group.html.markdown",
+    "title": "web r-docdb_cluster_parameter_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/docdb_cluster_parameter_group.html",
+    "match": "wr docdb cluster parameter group"
+},

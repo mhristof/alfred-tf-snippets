@@ -4,3 +4,9 @@
     "arg": "alfred/d-elasticsearch_domain.html.markdown",
     "match": "d elasticsearch domain"
 },
+{
+    "uid": "w-alfred/d-elasticsearch_domain.html.markdown",
+    "title": "web d-elasticsearch_domain",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/elasticsearch_domain.html",
+    "match": "wd elasticsearch domain"
+},

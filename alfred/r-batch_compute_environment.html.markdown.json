@@ -4,3 +4,9 @@
     "arg": "alfred/r-batch_compute_environment.html.markdown",
     "match": "r batch compute environment"
 },
+{
+    "uid": "w-alfred/r-batch_compute_environment.html.markdown",
+    "title": "web r-batch_compute_environment",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/batch_compute_environment.html",
+    "match": "wr batch compute environment"
+},

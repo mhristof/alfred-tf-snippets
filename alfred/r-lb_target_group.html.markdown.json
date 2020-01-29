@@ -4,3 +4,9 @@
     "arg": "alfred/r-lb_target_group.html.markdown",
     "match": "r lb target group"
 },
+{
+    "uid": "w-alfred/r-lb_target_group.html.markdown",
+    "title": "web r-lb_target_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lb_target_group.html",
+    "match": "wr lb target group"
+},

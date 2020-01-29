@@ -4,3 +4,9 @@
     "arg": "alfred/r-vpc.html.markdown",
     "match": "r vpc"
 },
+{
+    "uid": "w-alfred/r-vpc.html.markdown",
+    "title": "web r-vpc",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/vpc.html",
+    "match": "wr vpc"
+},

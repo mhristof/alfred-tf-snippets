@@ -4,3 +4,9 @@
     "arg": "alfred/d-waf_rule.html.markdown",
     "match": "d waf rule"
 },
+{
+    "uid": "w-alfred/d-waf_rule.html.markdown",
+    "title": "web d-waf_rule",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/waf_rule.html",
+    "match": "wd waf rule"
+},

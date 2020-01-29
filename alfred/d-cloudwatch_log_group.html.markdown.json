@@ -4,3 +4,9 @@
     "arg": "alfred/d-cloudwatch_log_group.html.markdown",
     "match": "d cloudwatch log group"
 },
+{
+    "uid": "w-alfred/d-cloudwatch_log_group.html.markdown",
+    "title": "web d-cloudwatch_log_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/cloudwatch_log_group.html",
+    "match": "wd cloudwatch log group"
+},

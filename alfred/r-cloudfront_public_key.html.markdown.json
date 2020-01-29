@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudfront_public_key.html.markdown",
     "match": "r cloudfront public key"
 },
+{
+    "uid": "w-alfred/r-cloudfront_public_key.html.markdown",
+    "title": "web r-cloudfront_public_key",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudfront_public_key.html",
+    "match": "wr cloudfront public key"
+},

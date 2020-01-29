@@ -4,3 +4,9 @@
     "arg": "alfred/r-sagemaker_notebook_instance.html.markdown",
     "match": "r sagemaker notebook instance"
 },
+{
+    "uid": "w-alfred/r-sagemaker_notebook_instance.html.markdown",
+    "title": "web r-sagemaker_notebook_instance",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sagemaker_notebook_instance.html",
+    "match": "wr sagemaker notebook instance"
+},

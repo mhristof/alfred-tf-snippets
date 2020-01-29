@@ -4,3 +4,9 @@
     "arg": "alfred/r-eks_fargate_profile.html.markdown",
     "match": "r eks fargate profile"
 },
+{
+    "uid": "w-alfred/r-eks_fargate_profile.html.markdown",
+    "title": "web r-eks_fargate_profile",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/eks_fargate_profile.html",
+    "match": "wr eks fargate profile"
+},

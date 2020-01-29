@@ -4,3 +4,9 @@
     "arg": "alfred/r-config_configuration_recorder_status.html.markdown",
     "match": "r config configuration recorder status"
 },
+{
+    "uid": "w-alfred/r-config_configuration_recorder_status.html.markdown",
+    "title": "web r-config_configuration_recorder_status",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/config_configuration_recorder_status.html",
+    "match": "wr config configuration recorder status"
+},

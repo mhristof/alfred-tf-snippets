@@ -4,3 +4,9 @@
     "arg": "alfred/d-storagegateway_local_disk.html.markdown",
     "match": "d storagegateway local disk"
 },
+{
+    "uid": "w-alfred/d-storagegateway_local_disk.html.markdown",
+    "title": "web d-storagegateway_local_disk",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/storagegateway_local_disk.html",
+    "match": "wd storagegateway local disk"
+},

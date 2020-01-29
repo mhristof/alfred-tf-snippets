@@ -4,3 +4,9 @@
     "arg": "alfred/r-volume_attachment.html.markdown",
     "match": "r volume attachment"
 },
+{
+    "uid": "w-alfred/r-volume_attachment.html.markdown",
+    "title": "web r-volume_attachment",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/volume_attachment.html",
+    "match": "wr volume attachment"
+},

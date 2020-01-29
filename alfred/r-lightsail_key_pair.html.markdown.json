@@ -4,3 +4,9 @@
     "arg": "alfred/r-lightsail_key_pair.html.markdown",
     "match": "r lightsail key pair"
 },
+{
+    "uid": "w-alfred/r-lightsail_key_pair.html.markdown",
+    "title": "web r-lightsail_key_pair",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lightsail_key_pair.html",
+    "match": "wr lightsail key pair"
+},

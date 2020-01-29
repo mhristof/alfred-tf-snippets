@@ -4,3 +4,9 @@
     "arg": "alfred/r-securityhub_standards_subscription.markdown",
     "match": "r securityhub standards subscription.markdown"
 },
+{
+    "uid": "w-alfred/r-securityhub_standards_subscription.markdown",
+    "title": "web r-securityhub_standards_subscription.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/securityhub_standards_subscription",
+    "match": "wr securityhub standards subscription.markdown"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-elastic_beanstalk_application_version.html.markdown",
     "match": "r elastic beanstalk application version"
 },
+{
+    "uid": "w-alfred/r-elastic_beanstalk_application_version.html.markdown",
+    "title": "web r-elastic_beanstalk_application_version",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/elastic_beanstalk_application_version.html",
+    "match": "wr elastic beanstalk application version"
+},

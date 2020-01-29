@@ -4,3 +4,9 @@
     "arg": "alfred/r-docdb_cluster_instance.html.markdown",
     "match": "r docdb cluster instance"
 },
+{
+    "uid": "w-alfred/r-docdb_cluster_instance.html.markdown",
+    "title": "web r-docdb_cluster_instance",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/docdb_cluster_instance.html",
+    "match": "wr docdb cluster instance"
+},

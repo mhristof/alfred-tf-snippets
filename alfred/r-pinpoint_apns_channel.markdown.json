@@ -4,3 +4,9 @@
     "arg": "alfred/r-pinpoint_apns_channel.markdown",
     "match": "r pinpoint apns channel.markdown"
 },
+{
+    "uid": "w-alfred/r-pinpoint_apns_channel.markdown",
+    "title": "web r-pinpoint_apns_channel.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/pinpoint_apns_channel",
+    "match": "wr pinpoint apns channel.markdown"
+},

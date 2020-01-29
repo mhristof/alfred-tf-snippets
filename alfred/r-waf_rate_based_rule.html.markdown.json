@@ -4,3 +4,9 @@
     "arg": "alfred/r-waf_rate_based_rule.html.markdown",
     "match": "r waf rate based rule"
 },
+{
+    "uid": "w-alfred/r-waf_rate_based_rule.html.markdown",
+    "title": "web r-waf_rate_based_rule",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/waf_rate_based_rule.html",
+    "match": "wr waf rate based rule"
+},

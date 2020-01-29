@@ -4,3 +4,9 @@
     "arg": "alfred/r-athena_named_query.html.markdown",
     "match": "r athena named query"
 },
+{
+    "uid": "w-alfred/r-athena_named_query.html.markdown",
+    "title": "web r-athena_named_query",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/athena_named_query.html",
+    "match": "wr athena named query"
+},

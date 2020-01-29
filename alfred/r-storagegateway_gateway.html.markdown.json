@@ -4,3 +4,9 @@
     "arg": "alfred/r-storagegateway_gateway.html.markdown",
     "match": "r storagegateway gateway"
 },
+{
+    "uid": "w-alfred/r-storagegateway_gateway.html.markdown",
+    "title": "web r-storagegateway_gateway",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/storagegateway_gateway.html",
+    "match": "wr storagegateway gateway"
+},

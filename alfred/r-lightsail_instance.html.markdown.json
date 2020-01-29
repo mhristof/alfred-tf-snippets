@@ -4,3 +4,9 @@
     "arg": "alfred/r-lightsail_instance.html.markdown",
     "match": "r lightsail instance"
 },
+{
+    "uid": "w-alfred/r-lightsail_instance.html.markdown",
+    "title": "web r-lightsail_instance",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lightsail_instance.html",
+    "match": "wr lightsail instance"
+},

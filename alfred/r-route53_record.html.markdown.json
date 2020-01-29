@@ -4,3 +4,9 @@
     "arg": "alfred/r-route53_record.html.markdown",
     "match": "r route53 record"
 },
+{
+    "uid": "w-alfred/r-route53_record.html.markdown",
+    "title": "web r-route53_record",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/route53_record.html",
+    "match": "wr route53 record"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-ses_configuration_set.markdown",
     "match": "r ses configuration set.markdown"
 },
+{
+    "uid": "w-alfred/r-ses_configuration_set.markdown",
+    "title": "web r-ses_configuration_set.markdown",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ses_configuration_set",
+    "match": "wr ses configuration set.markdown"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-flow_log.html.markdown",
     "match": "r flow log"
 },
+{
+    "uid": "w-alfred/r-flow_log.html.markdown",
+    "title": "web r-flow_log",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/flow_log.html",
+    "match": "wr flow log"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_openid_connect_provider.html.markdown",
     "match": "r iam openid connect provider"
 },
+{
+    "uid": "w-alfred/r-iam_openid_connect_provider.html.markdown",
+    "title": "web r-iam_openid_connect_provider",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_openid_connect_provider.html",
+    "match": "wr iam openid connect provider"
+},

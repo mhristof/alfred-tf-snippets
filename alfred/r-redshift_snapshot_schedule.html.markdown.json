@@ -4,3 +4,9 @@
     "arg": "alfred/r-redshift_snapshot_schedule.html.markdown",
     "match": "r redshift snapshot schedule"
 },
+{
+    "uid": "w-alfred/r-redshift_snapshot_schedule.html.markdown",
+    "title": "web r-redshift_snapshot_schedule",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/redshift_snapshot_schedule.html",
+    "match": "wr redshift snapshot schedule"
+},

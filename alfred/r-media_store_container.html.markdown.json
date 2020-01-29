@@ -4,3 +4,9 @@
     "arg": "alfred/r-media_store_container.html.markdown",
     "match": "r media store container"
 },
+{
+    "uid": "w-alfred/r-media_store_container.html.markdown",
+    "title": "web r-media_store_container",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/media_store_container.html",
+    "match": "wr media store container"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-emr_cluster.html.markdown",
     "match": "r emr cluster"
 },
+{
+    "uid": "w-alfred/r-emr_cluster.html.markdown",
+    "title": "web r-emr_cluster",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/emr_cluster.html",
+    "match": "wr emr cluster"
+},

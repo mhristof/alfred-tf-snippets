@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudwatch_metric_alarm.html.markdown",
     "match": "r cloudwatch metric alarm"
 },
+{
+    "uid": "w-alfred/r-cloudwatch_metric_alarm.html.markdown",
+    "title": "web r-cloudwatch_metric_alarm",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudwatch_metric_alarm.html",
+    "match": "wr cloudwatch metric alarm"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-opsworks_ganglia_layer.html.markdown",
     "match": "r opsworks ganglia layer"
 },
+{
+    "uid": "w-alfred/r-opsworks_ganglia_layer.html.markdown",
+    "title": "web r-opsworks_ganglia_layer",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/opsworks_ganglia_layer.html",
+    "match": "wr opsworks ganglia layer"
+},

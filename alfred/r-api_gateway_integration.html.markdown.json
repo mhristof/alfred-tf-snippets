@@ -4,3 +4,9 @@
     "arg": "alfred/r-api_gateway_integration.html.markdown",
     "match": "r api gateway integration"
 },
+{
+    "uid": "w-alfred/r-api_gateway_integration.html.markdown",
+    "title": "web r-api_gateway_integration",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/api_gateway_integration.html",
+    "match": "wr api gateway integration"
+},

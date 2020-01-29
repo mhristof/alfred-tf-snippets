@@ -4,3 +4,9 @@
     "arg": "alfred/d-route53_resolver_rules.html.markdown",
     "match": "d route53 resolver rules"
 },
+{
+    "uid": "w-alfred/d-route53_resolver_rules.html.markdown",
+    "title": "web d-route53_resolver_rules",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/route53_resolver_rules.html",
+    "match": "wd route53 resolver rules"
+},

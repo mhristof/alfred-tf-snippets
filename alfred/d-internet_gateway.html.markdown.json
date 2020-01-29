@@ -4,3 +4,9 @@
     "arg": "alfred/d-internet_gateway.html.markdown",
     "match": "d internet gateway"
 },
+{
+    "uid": "w-alfred/d-internet_gateway.html.markdown",
+    "title": "web d-internet_gateway",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/internet_gateway.html",
+    "match": "wd internet gateway"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-kms_ciphertext.html.markdown",
     "match": "d kms ciphertext"
 },
+{
+    "uid": "w-alfred/d-kms_ciphertext.html.markdown",
+    "title": "web d-kms_ciphertext",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/kms_ciphertext.html",
+    "match": "wd kms ciphertext"
+},

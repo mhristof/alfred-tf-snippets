@@ -4,3 +4,9 @@
     "arg": "alfred/r-iot_policy_attachment.html.markdown",
     "match": "r iot policy attachment"
 },
+{
+    "uid": "w-alfred/r-iot_policy_attachment.html.markdown",
+    "title": "web r-iot_policy_attachment",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iot_policy_attachment.html",
+    "match": "wr iot policy attachment"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-network_interface.html.markdown",
     "match": "d network interface"
 },
+{
+    "uid": "w-alfred/d-network_interface.html.markdown",
+    "title": "web d-network_interface",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/network_interface.html",
+    "match": "wd network interface"
+},

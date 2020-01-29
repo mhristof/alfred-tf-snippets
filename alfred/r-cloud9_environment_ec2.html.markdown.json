@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloud9_environment_ec2.html.markdown",
     "match": "r cloud9 environment ec2"
 },
+{
+    "uid": "w-alfred/r-cloud9_environment_ec2.html.markdown",
+    "title": "web r-cloud9_environment_ec2",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloud9_environment_ec2.html",
+    "match": "wr cloud9 environment ec2"
+},

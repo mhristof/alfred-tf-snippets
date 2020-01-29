@@ -4,3 +4,9 @@
     "arg": "alfred/r-lb_listener_certificate.html.markdown",
     "match": "r lb listener certificate"
 },
+{
+    "uid": "w-alfred/r-lb_listener_certificate.html.markdown",
+    "title": "web r-lb_listener_certificate",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/lb_listener_certificate.html",
+    "match": "wr lb listener certificate"
+},

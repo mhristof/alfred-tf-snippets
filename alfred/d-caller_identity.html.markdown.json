@@ -4,3 +4,9 @@
     "arg": "alfred/d-caller_identity.html.markdown",
     "match": "d caller identity"
 },
+{
+    "uid": "w-alfred/d-caller_identity.html.markdown",
+    "title": "web d-caller_identity",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/caller_identity.html",
+    "match": "wd caller identity"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-acmpca_certificate_authority.html.markdown",
     "match": "d acmpca certificate authority"
 },
+{
+    "uid": "w-alfred/d-acmpca_certificate_authority.html.markdown",
+    "title": "web d-acmpca_certificate_authority",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/acmpca_certificate_authority.html",
+    "match": "wd acmpca certificate authority"
+},

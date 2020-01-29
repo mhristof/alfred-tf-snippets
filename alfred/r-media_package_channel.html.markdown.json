@@ -4,3 +4,9 @@
     "arg": "alfred/r-media_package_channel.html.markdown",
     "match": "r media package channel"
 },
+{
+    "uid": "w-alfred/r-media_package_channel.html.markdown",
+    "title": "web r-media_package_channel",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/media_package_channel.html",
+    "match": "wr media package channel"
+},

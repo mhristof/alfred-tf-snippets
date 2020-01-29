@@ -4,3 +4,9 @@
     "arg": "alfred/r-elasticache_subnet_group.html.markdown",
     "match": "r elasticache subnet group"
 },
+{
+    "uid": "w-alfred/r-elasticache_subnet_group.html.markdown",
+    "title": "web r-elasticache_subnet_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/elasticache_subnet_group.html",
+    "match": "wr elasticache subnet group"
+},

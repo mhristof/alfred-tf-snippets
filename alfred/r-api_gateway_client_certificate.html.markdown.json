@@ -4,3 +4,9 @@
     "arg": "alfred/r-api_gateway_client_certificate.html.markdown",
     "match": "r api gateway client certificate"
 },
+{
+    "uid": "w-alfred/r-api_gateway_client_certificate.html.markdown",
+    "title": "web r-api_gateway_client_certificate",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/api_gateway_client_certificate.html",
+    "match": "wr api gateway client certificate"
+},

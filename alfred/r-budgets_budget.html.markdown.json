@@ -4,3 +4,9 @@
     "arg": "alfred/r-budgets_budget.html.markdown",
     "match": "r budgets budget"
 },
+{
+    "uid": "w-alfred/r-budgets_budget.html.markdown",
+    "title": "web r-budgets_budget",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/budgets_budget.html",
+    "match": "wr budgets budget"
+},

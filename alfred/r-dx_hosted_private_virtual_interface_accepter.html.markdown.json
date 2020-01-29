@@ -4,3 +4,9 @@
     "arg": "alfred/r-dx_hosted_private_virtual_interface_accepter.html.markdown",
     "match": "r dx hosted private virtual interface accepter"
 },
+{
+    "uid": "w-alfred/r-dx_hosted_private_virtual_interface_accepter.html.markdown",
+    "title": "web r-dx_hosted_private_virtual_interface_accepter",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dx_hosted_private_virtual_interface_accepter.html",
+    "match": "wr dx hosted private virtual interface accepter"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-wafregional_xss_match_set.html.markdown",
     "match": "r wafregional xss match set"
 },
+{
+    "uid": "w-alfred/r-wafregional_xss_match_set.html.markdown",
+    "title": "web r-wafregional_xss_match_set",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/wafregional_xss_match_set.html",
+    "match": "wr wafregional xss match set"
+},

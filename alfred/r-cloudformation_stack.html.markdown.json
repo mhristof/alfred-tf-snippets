@@ -4,3 +4,9 @@
     "arg": "alfred/r-cloudformation_stack.html.markdown",
     "match": "r cloudformation stack"
 },
+{
+    "uid": "w-alfred/r-cloudformation_stack.html.markdown",
+    "title": "web r-cloudformation_stack",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/cloudformation_stack.html",
+    "match": "wr cloudformation stack"
+},

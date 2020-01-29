@@ -4,3 +4,9 @@
     "arg": "alfred/r-dax_subnet_group.html.markdown",
     "match": "r dax subnet group"
 },
+{
+    "uid": "w-alfred/r-dax_subnet_group.html.markdown",
+    "title": "web r-dax_subnet_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/dax_subnet_group.html",
+    "match": "wr dax subnet group"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/d-directory_service_directory.html.markdown",
     "match": "d directory service directory"
 },
+{
+    "uid": "w-alfred/d-directory_service_directory.html.markdown",
+    "title": "web d-directory_service_directory",
+    "arg": "https://www.terraform.io/docs/providers/aws/d/directory_service_directory.html",
+    "match": "wd directory service directory"
+},

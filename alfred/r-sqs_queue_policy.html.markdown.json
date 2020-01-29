@@ -4,3 +4,9 @@
     "arg": "alfred/r-sqs_queue_policy.html.markdown",
     "match": "r sqs queue policy"
 },
+{
+    "uid": "w-alfred/r-sqs_queue_policy.html.markdown",
+    "title": "web r-sqs_queue_policy",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/sqs_queue_policy.html",
+    "match": "wr sqs queue policy"
+},

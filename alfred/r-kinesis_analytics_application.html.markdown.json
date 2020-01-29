@@ -4,3 +4,9 @@
     "arg": "alfred/r-kinesis_analytics_application.html.markdown",
     "match": "r kinesis analytics application"
 },
+{
+    "uid": "w-alfred/r-kinesis_analytics_application.html.markdown",
+    "title": "web r-kinesis_analytics_application",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/kinesis_analytics_application.html",
+    "match": "wr kinesis analytics application"
+},

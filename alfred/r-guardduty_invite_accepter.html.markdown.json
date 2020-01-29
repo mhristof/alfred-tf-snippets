@@ -4,3 +4,9 @@
     "arg": "alfred/r-guardduty_invite_accepter.html.markdown",
     "match": "r guardduty invite accepter"
 },
+{
+    "uid": "w-alfred/r-guardduty_invite_accepter.html.markdown",
+    "title": "web r-guardduty_invite_accepter",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/guardduty_invite_accepter.html",
+    "match": "wr guardduty invite accepter"
+},

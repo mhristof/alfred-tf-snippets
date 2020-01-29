@@ -4,3 +4,9 @@
     "arg": "alfred/r-iam_saml_provider.html.markdown",
     "match": "r iam saml provider"
 },
+{
+    "uid": "w-alfred/r-iam_saml_provider.html.markdown",
+    "title": "web r-iam_saml_provider",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/iam_saml_provider.html",
+    "match": "wr iam saml provider"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-ec2_fleet.html.markdown",
     "match": "r ec2 fleet"
 },
+{
+    "uid": "w-alfred/r-ec2_fleet.html.markdown",
+    "title": "web r-ec2_fleet",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/ec2_fleet.html",
+    "match": "wr ec2 fleet"
+},

@@ -4,3 +4,9 @@
     "arg": "alfred/r-elastictranscoder_pipeline.html.markdown",
     "match": "r elastictranscoder pipeline"
 },
+{
+    "uid": "w-alfred/r-elastictranscoder_pipeline.html.markdown",
+    "title": "web r-elastictranscoder_pipeline",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/elastictranscoder_pipeline.html",
+    "match": "wr elastictranscoder pipeline"
+},

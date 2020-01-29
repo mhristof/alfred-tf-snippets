@@ -4,3 +4,9 @@
     "arg": "alfred/r-datapipeline_pipeline.html.markdown",
     "match": "r datapipeline pipeline"
 },
+{
+    "uid": "w-alfred/r-datapipeline_pipeline.html.markdown",
+    "title": "web r-datapipeline_pipeline",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/datapipeline_pipeline.html",
+    "match": "wr datapipeline pipeline"
+},

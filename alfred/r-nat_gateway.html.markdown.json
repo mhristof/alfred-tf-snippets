@@ -4,3 +4,9 @@
     "arg": "alfred/r-nat_gateway.html.markdown",
     "match": "r nat gateway"
 },
+{
+    "uid": "w-alfred/r-nat_gateway.html.markdown",
+    "title": "web r-nat_gateway",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/nat_gateway.html",
+    "match": "wr nat gateway"
+},

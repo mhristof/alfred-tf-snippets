@@ -4,3 +4,9 @@
     "arg": "alfred/r-neptune_parameter_group.html.markdown",
     "match": "r neptune parameter group"
 },
+{
+    "uid": "w-alfred/r-neptune_parameter_group.html.markdown",
+    "title": "web r-neptune_parameter_group",
+    "arg": "https://www.terraform.io/docs/providers/aws/r/neptune_parameter_group.html",
+    "match": "wr neptune parameter group"
+},
